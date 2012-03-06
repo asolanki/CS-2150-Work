@@ -1,0 +1,6 @@
+// Adarsh Solanki
+// as5nr
+// 1/26/12
+// postlab1.question.txt
+
+When list2 = theList is evaluated, is it copying all of the data and representing the List twice in memory or is it pointing to the same object in memory?

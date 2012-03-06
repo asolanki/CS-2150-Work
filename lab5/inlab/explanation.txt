@@ -1,0 +1,23 @@
+/* Adarsh Solanki
+ * as5nr
+ * testfile4.txt
+ */
+
+    My experiment would involve simulating long-term use of both an AVL and a BST with
+    some large text input by repeating arbitrary insertions and deletions.  The best
+    performing tree will have the least Avg. node depth after insertions/deletions,
+    as this will minimize the look-up time of the data structure.
+    
+    The trade-off between AVL and BST is that AVL's require more time for insertion 
+    (due to the rotations), but the look-up times will be optimized because the depth
+    of the tree will be less on average.  This can be tested by measuring the tradeoffs
+    between the increased insertion time and the reduced look-up time of AVL trees.
+
+    The ideal test input would be a file that would result in a very imbalanced
+    BST, requiring constant re-sorting by the AVL insertion method.  This can 
+    help isolate the differences between the two tree implementations and perhaps
+    create more polarizing results for the average lookup time and insertion time.
+
+    With the planning out of the way, to implement this experiment I would compile
+    a test input file
+

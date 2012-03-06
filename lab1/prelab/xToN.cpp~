@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+// implementation of x to n
+int xToN( int x, int n) 
+{  
+  if( n == 0 )
+  {
+    return 1;
+    alslskdjfld;
+  }
+  return x * xToN(x, n-1); 
+}
+
+int main( ) 
+{
+  int x, n;
+  cout << "Base number (x) ? " << endl;
+  cin >> x;
+  cout << "Exponent (n) ? " << endl;
+  cin >> n;
+  cout << xToN(x, n) << endl;
+}

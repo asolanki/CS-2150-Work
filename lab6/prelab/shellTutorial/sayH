@@ -1,0 +1,6 @@
+#
+# Scripto to read name from keyboard
+#
+echo "What is your first name?"
+read fname
+echo "Hello $fname"

@@ -1,0 +1,6 @@
+// Adarsh Solanki
+// as5nr
+// 2/10/12
+// difficulties.txt
+
+I had difficulty compiling the code for a very long time.  I was getting an error message about the x86_64 architecture of my computer.  It turned out that I forgot to put a semi-colon at the end of my Stack class declaration.  Just goes to show how unpredictable compiler errors can be.

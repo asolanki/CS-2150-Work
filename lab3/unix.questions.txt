@@ -1,0 +1,6 @@
+Adarsh Solanki
+as5nr
+2/3/12
+unix.questions.txt
+
+Does unix include utilities that allow easy command-line interaction with websites/servers?  If so, can it then theoretically be used in lieu of a browser?

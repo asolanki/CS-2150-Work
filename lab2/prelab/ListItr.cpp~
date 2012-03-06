@@ -1,0 +1,38 @@
+#include "ListItr.h"
+
+// Constructor
+ListItr::ListItr()
+{
+
+}
+
+// one param constructor
+ListItr::ListItr(ListNode* theNode)
+{
+
+}
+
+bool ListItr::isPastend() const
+{
+
+}
+
+bool ListItr:isPastBeginning() const
+{
+
+}
+
+void ListItr::moveForward()
+{
+
+}
+
+void ListItr::moveBackward()
+{
+
+}
+
+int ListItr::retrieve() const
+{
+  return current->value;
+}

@@ -1,0 +1,56 @@
+#include "List.h"
+
+// constructor
+List<int>::List()
+{
+  head = null;
+  tail = null;
+  count = 0;
+}
+
+// copy constructor
+List<int>::List()
+{
+  
+}
+
+List<int>::~List()
+{
+  delete head; // can these be combined in one line?
+  delete tail;
+  delete count; // is this necessary?
+  // makeEmpty() ?
+}
+
+List& List<int>::operator=(const List& source)
+{
+  ListItr<int> ritr = source.first();
+  ListItr<int> itr = zeroth();
+}
+
+bool List<int>::isEmpty() const
+{
+  return count < 1;
+}
+
+void List<int>::makeEmpty()
+{
+  while(!isEmpty()) {
+    remove( first().retrieve() );
+  }
+}
+
+ListItr List<int>::first()
+{
+
+}
+
+ListItr List<int>::last()
+{
+
+}
+
+void List<int>::insertAfter(int x, ListItr position)
+{
+  
+}

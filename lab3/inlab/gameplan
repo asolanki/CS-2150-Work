@@ -1,0 +1,17 @@
+// this can be the loop for input
+
+// perhaps:
+#include <cstdlib>
+
+while (true) {
+    string s;
+    cin >> s;
+    if (!cin.good()){
+        break;
+    }
+
+    s.c_str()
+
+}
+
+
