@@ -1,0 +1,55 @@
+Opcode (4 bits)
+0       Halt
+1       I/O
+            next 2 = type:
+                next bit: input (0) or output (1)
+                second: hex (0) or ascii (1)
+2       Shifts 
+            next 2 bits specify type, last 5 specify amt)
+            ex: 0000 1111 0000 1111
+
+3-F     Last 12 bits specify address (arithmetic, memory, ctrl etc)etc
+
+Compute a sum from 1 - N where N is user input
+    
+    pseudocode:
+        read N;
+        i = i; s = 0;
+        while ( i <= N) {
+            s += i;
+            i += 1;
+        }
+        print s;
+
+    ICBM:
+      00              jmp     start
+      01      i       dw      0
+      02      s       dw      0
+      03      N       dw      0
+      04      one     dw      1
+      05      zero    dw      0
+      06                              space for changes
+      07
+      08
+      09
+      0A      start  readH            read N
+      0B             store
+      0C             load     one     i = 1
+      0D             store    i
+      0E             load     zero    s = 0
+      0F             store    s
+      10      loop   load     N       if (i > N) goto xit
+      11             sub      i
+      12             jmpl     xit
+      13             load     s       s += i
+      14             add      i
+      15             store    s
+      16             load     i       i += 1
+      17             add      one
+      18             store    i       
+      19             jmp      loop    goto loop   
+      1A      xit    load     s       print s
+      1B             printH
+      1C             halt     halt
+
+

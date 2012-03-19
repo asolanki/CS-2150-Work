@@ -1,0 +1,2857 @@
+2855 words found
+E (0, 81):	cat
+E (0, 81):	cats
+E (1, 279):	bob
+E (1, 57):	fum
+E (10, 259):	hog
+E (10, 39):	gas
+E (10, 86):	choke
+E (10, 86):	choked
+E (101, 112):	brittle
+E (101, 112):	brittler
+E (102, 191):	app
+E (102, 214):	box
+E (102, 272):	zip
+E (103, 97):	baud
+E (103, 97):	bauds
+E (104, 213):	blast
+E (104, 213):	blasted
+E (105, 50):	zip
+E (106, 4):	bounce
+E (106, 4):	bounced
+E (106, 58):	toad
+E (109, 183):	clean
+E (109, 183):	cleanest
+E (11, 102):	channel
+E (11, 102):	channels
+E (11, 162):	con
+E (11, 272):	lost
+E (11, 276):	code
+E (11, 88):	salt
+E (11, 89):	alt
+E (110, 201):	kit
+E (112, 116):	gag
+E (112, 96):	brittle
+E (113, 188):	guru
+E (114, 24):	con
+E (115, 252):	cheerfully
+E (117, 4):	con
+E (117, 4):	confuser
+E (117, 8):	user
+E (119, 15):	zen
+E (119, 30):	gun
+E (12, 173):	hex
+E (120, 122):	win
+E (121, 74):	avatar
+E (121, 74):	avatars
+E (122, 139):	poll
+E (122, 156):	bar
+E (122, 156):	barn
+E (123, 217):	foo
+E (123, 254):	crank
+E (123, 254):	cranks
+E (124, 201):	chomp
+E (124, 201):	chomped
+E (126, 110):	ice
+E (126, 190):	ice
+E (126, 234):	bum
+E (126, 255):	alt
+E (126, 255):	alts
+E (126, 98):	hat
+E (127, 278):	alt
+E (129, 21):	pop
+E (13, 227):	win
+E (13, 238):	eds
+E (130, 190):	won
+E (130, 2):	bot
+E (131, 154):	bob
+E (132, 237):	won
+E (132, 250):	can
+E (132, 250):	canning
+E (133, 293):	pop
+E (133, 39):	hog
+E (134, 101):	doc
+E (134, 156):	won
+E (134, 271):	gun
+E (134, 91):	ups
+E (135, 77):	gun
+E (136, 153):	block
+E (136, 164):	alt
+E (136, 19):	cascade
+E (137, 19):	boink
+E (137, 19):	boinks
+E (14, 255):	gig
+E (140, 182):	boot
+E (140, 182):	boots
+E (141, 113):	zap
+E (141, 247):	ups
+E (141, 286):	can
+E (141, 295):	die
+E (142, 138):	gun
+E (142, 282):	ken
+E (144, 13):	bar
+E (145, 111):	bazaar
+E (145, 111):	bazaars
+E (145, 12):	dds
+E (145, 207):	acolyte
+E (147, 41):	pop
+E (148, 275):	chain
+E (148, 275):	chained
+E (148, 54):	ice
+E (149, 113):	chrome
+E (149, 163):	bounce
+E (149, 21):	bandwidth
+E (149, 21):	bandwidths
+E (15, 110):	ken
+E (15, 169):	gig
+E (150, 121):	bob
+E (151, 151):	con
+E (151, 151):	cons
+E (151, 151):	conses
+E (151, 66):	cloning
+E (152, 114):	hat
+E (152, 227):	fry
+E (152, 230):	can
+E (153, 153):	alt
+E (154, 134):	hog
+E (154, 75):	say
+E (155, 190):	con
+E (155, 190):	cons
+E (155, 190):	consing
+E (155, 231):	peek
+E (156, 192):	cracking
+E (156, 192):	crackings
+E (156, 216):	clean
+E (156, 216):	cleaned
+E (156, 293):	bum
+E (156, 293):	bump
+E (156, 293):	bumps
+E (157, 188):	gag
+E (157, 57):	bar
+E (157, 57):	bars
+E (158, 215):	beta
+E (16, 241):	var
+E (16, 252):	app
+E (16, 71):	box
+E (16, 71):	boxen
+E (160, 271):	hog
+E (160, 56):	cookbook
+E (160, 56):	cookbooks
+E (162, 163):	choke
+E (162, 261):	lag
+E (163, 237):	choke
+E (163, 237):	chokes
+E (164, 96):	clone
+E (164, 96):	cloned
+E (165, 249):	say
+E (166, 201):	app
+E (167, 14):	bar
+E (167, 14):	barf
+E (167, 14):	barfed
+E (169, 248):	biff
+E (169, 248):	biffed
+E (169, 6):	hat
+E (17, 289):	app
+E (170, 293):	bomb
+E (170, 293):	bombing
+E (170, 92):	cat
+E (171, 194):	fan
+E (173, 165):	var
+E (173, 45):	pop
+E (174, 256):	zap
+E (176, 184):	alt
+E (176, 218):	beep
+E (176, 73):	inc
+E (179, 11):	bible
+E (179, 11):	bibles
+E (179, 242):	rip
+E (180, 171):	user
+E (181, 168):	chrome
+E (181, 168):	chromes
+E (182, 289):	pod
+E (182, 293):	foo
+E (183, 249):	gen
+E (184, 14):	bob
+E (184, 50):	kit
+E (185, 104):	bomb
+E (185, 104):	bombed
+E (185, 151):	burble
+E (185, 151):	burbles
+E (185, 206):	choking
+E (185, 86):	ops
+E (187, 201):	gag
+E (187, 263):	bit
+E (188, 260):	cray
+E (188, 272):	zen
+E (190, 141):	doc
+E (190, 61):	bum
+E (192, 119):	kit
+E (193, 284):	bot
+E (195, 256):	say
+E (195, 292):	gen
+E (195, 45):	meg
+E (196, 91):	pop
+E (197, 17):	bug
+E (199, 108):	lag
+E (199, 108):	lags
+E (2, 3):	zip
+E (20, 66):	bum
+E (200, 189):	ops
+E (200, 8):	con
+E (202, 136):	hop
+E (202, 149):	bouncing
+E (202, 212):	pod
+E (202, 214):	dds
+E (202, 28):	kit
+E (202, 92):	say
+E (204, 103):	meg
+E (204, 119):	zen
+E (204, 49):	bum
+E (204, 49):	bump
+E (204, 49):	bumped
+E (204, 83):	blink
+E (206, 9):	boa
+E (208, 24):	zip
+E (208, 72):	alt
+E (209, 272):	hop
+E (210, 174):	char
+E (210, 33):	con
+E (210, 33):	cons
+E (210, 33):	consed
+E (211, 123):	bar
+E (211, 123):	barn
+E (211, 123):	barns
+E (211, 177):	foo
+E (212, 207):	rave
+E (212, 207):	raved
+E (212, 286):	fry
+E (214, 126):	hop
+E (215, 110):	break
+E (215, 152):	boa
+E (215, 191):	foo
+E (215, 222):	pop
+E (215, 34):	lag
+E (216, 101):	bible
+E (217, 20):	gag
+E (217, 210):	can
+E (217, 210):	canned
+E (217, 78):	ups
+E (217, 86):	rip
+E (218, 140):	gig
+E (218, 290):	rip
+E (218, 62):	bum
+E (220, 148):	backgammon
+E (221, 112):	fan
+E (221, 220):	bomb
+E (221, 220):	bombs
+E (221, 31):	admin
+E (221, 34):	inc
+E (222, 17):	chain
+E (222, 17):	chaining
+E (222, 275):	crash
+E (222, 275):	crashed
+E (223, 83):	dds
+E (224, 62):	boa
+E (224, 66):	zip
+E (225, 251):	blast
+E (225, 28):	tee
+E (226, 134):	gig
+E (226, 172):	fum
+E (226, 194):	bum
+E (226, 209):	beep
+E (226, 209):	beeps
+E (226, 228):	zap
+E (226, 80):	post
+E (227, 12):	beep
+E (227, 87):	gas
+E (228, 130):	box
+E (229, 137):	fan
+E (229, 199):	alt
+E (229, 228):	beam
+E (229, 228):	beams
+E (230, 270):	can
+E (230, 60):	won
+E (231, 217):	crank
+E (232, 174):	rip
+E (232, 281):	bug
+E (232, 36):	bar
+E (233, 247):	toy
+E (233, 33):	acolyte
+E (233, 33):	acolytes
+E (235, 82):	cat
+E (236, 83):	chomp
+E (236, 83):	chomping
+E (236, 87):	ping
+E (238, 143):	box
+E (238, 31):	can
+E (238, 31):	canonical
+E (238, 69):	mod
+E (239, 250):	ops
+E (239, 90):	meg
+E (24, 137):	bug
+E (24, 169):	fry
+E (240, 226):	can
+E (241, 166):	gig
+E (241, 59):	ken
+E (242, 96):	gun
+E (243, 286):	can
+E (244, 223):	alt
+E (244, 35):	con
+E (245, 254):	app
+E (245, 254):	apps
+E (246, 31):	zip
+E (247, 5):	bomb
+E (248, 193):	rip
+E (248, 294):	hog
+E (25, 278):	eds
+E (250, 76):	fum
+E (251, 224):	box
+E (253, 252):	zen
+E (253, 288):	var
+E (254, 165):	eds
+E (254, 228):	mod
+E (254, 89):	dds
+E (255, 137):	zap
+E (255, 259):	gun
+E (256, 289):	kit
+E (259, 102):	die
+E (259, 164):	bit
+E (259, 24):	kit
+E (26, 137):	chemist
+E (26, 137):	chemists
+E (261, 50):	bum
+E (261, 50):	bums
+E (262, 121):	toy
+E (262, 223):	chad
+E (262, 223):	chads
+E (262, 95):	gag
+E (263, 14):	block
+E (263, 14):	blocking
+E (264, 158):	can
+E (264, 191):	compact
+E (264, 191):	compacter
+E (264, 296):	code
+E (264, 39):	rip
+E (265, 73):	ken
+E (266, 136):	fora
+E (266, 228):	kit
+E (266, 282):	demo
+E (267, 16):	kit
+E (267, 215):	gonk
+E (268, 271):	win
+E (271, 94):	can
+E (272, 133):	hog
+E (272, 133):	hogs
+E (274, 157):	pod
+E (274, 283):	die
+E (274, 43):	compress
+E (274, 43):	compressing
+E (275, 259):	dds
+E (276, 136):	bazaar
+E (276, 6):	cookie
+E (276, 6):	cookies
+E (277, 132):	tee
+E (277, 186):	compress
+E (277, 27):	bar
+E (278, 269):	tee
+E (278, 35):	bob
+E (278, 85):	channel
+E (279, 249):	app
+E (279, 75):	win
+E (28, 31):	bob
+E (28, 51):	pod
+E (280, 255):	chain
+E (280, 296):	puff
+E (282, 132):	meg
+E (283, 165):	blast
+E (283, 165):	blasting
+E (283, 87):	con
+E (283, 87):	condom
+E (283, 87):	condoms
+E (284, 236):	mod
+E (284, 39):	clobber
+E (284, 39):	clobbers
+E (286, 286):	alt
+E (288, 209):	banner
+E (289, 19):	koan
+E (289, 256):	pop
+E (290, 207):	hop
+E (291, 108):	fix
+E (291, 181):	clean
+E (291, 181):	cleaning
+E (292, 242):	boot
+E (292, 242):	booting
+E (293, 224):	lase
+E (293, 64):	gen
+E (294, 230):	accumulator
+E (295, 129):	cracker
+E (297, 35):	background
+E (297, 39):	ground
+E (298, 169):	bar
+E (298, 224):	meg
+E (298, 264):	gen
+E (298, 28):	chomp
+E (298, 288):	zap
+E (298, 77):	glob
+E (298, 8):	boa
+E (298, 8):	board
+E (298, 8):	boards
+E (299, 149):	app
+E (299, 244):	fan
+E (3, 166):	say
+E (30, 105):	die
+E (30, 11):	meg
+E (30, 127):	browser
+E (31, 174):	gig
+E (31, 212):	meg
+E (32, 113):	ups
+E (33, 260):	var
+E (33, 49):	clone
+E (33, 49):	clones
+E (34, 11):	zip
+E (36, 41):	fry
+E (36, 49):	amoeba
+E (36, 49):	amoebae
+E (37, 164):	bob
+E (37, 42):	bot
+E (38, 24):	won
+E (38, 258):	broke
+E (38, 258):	broken
+E (38, 261):	ken
+E (38, 282):	atomic
+E (39, 137):	gag
+E (4, 192):	blink
+E (4, 192):	blinked
+E (4, 251):	bug
+E (41, 156):	bob
+E (42, 120):	cat
+E (43, 296):	alt
+E (44, 23):	cat
+E (44, 287):	bandwidth
+E (45, 124):	copper
+E (46, 31):	buzz
+E (47, 176):	zen
+E (47, 45):	check
+E (47, 45):	checks
+E (48, 269):	boa
+E (48, 269):	board
+E (49, 225):	cat
+E (49, 225):	catting
+E (51, 158):	zap
+E (52, 276):	die
+E (52, 276):	dies
+E (52, 291):	can
+E (53, 165):	cascade
+E (53, 165):	cascades
+E (53, 187):	eds
+E (53, 287):	win
+E (54, 149):	die
+E (54, 45):	hop
+E (56, 41):	clobber
+E (56, 41):	clobbered
+E (57, 182):	gas
+E (57, 48):	win
+E (58, 90):	hat
+E (59, 199):	accumulator
+E (59, 199):	accumulators
+E (59, 42):	tool
+E (6, 116):	box
+E (6, 120):	bar
+E (6, 120):	barn
+E (6, 120):	barney
+E (6, 120):	barneys
+E (6, 170):	avatar
+E (6, 56):	hop
+E (60, 225):	can
+E (61, 172):	meg
+E (61, 262):	box
+E (62, 163):	bum
+E (62, 163):	bums
+E (63, 143):	fum
+E (63, 156):	coaster
+E (64, 274):	bug
+E (65, 136):	kick
+E (65, 250):	hog
+E (66, 110):	meg
+E (66, 113):	gas
+E (66, 195):	ice
+E (66, 227):	gag
+E (66, 75):	benchmark
+E (67, 270):	ice
+E (67, 285):	meg
+E (67, 46):	beam
+E (67, 46):	beamed
+E (67, 67):	clobber
+E (68, 94):	cat
+E (69, 258):	calculator
+E (7, 195):	beam
+E (70, 282):	say
+E (70, 84):	bar
+E (70, 84):	barn
+E (70, 84):	barney
+E (71, 278):	bit
+E (72, 85):	bar
+E (72, 85):	barf
+E (75, 201):	cray
+E (75, 201):	crayola
+E (75, 231):	compo
+E (75, 231):	compos
+E (76, 203):	ice
+E (78, 165):	bob
+E (78, 247):	hat
+E (79, 286):	blivet
+E (79, 286):	blivets
+E (79, 287):	live
+E (8, 252):	meg
+E (8, 9):	cat
+E (8, 9):	cathedral
+E (8, 9):	cathedrals
+E (80, 197):	bogus
+E (81, 177):	bar
+E (81, 290):	bot
+E (82, 231):	burble
+E (82, 273):	tee
+E (84, 82):	chomp
+E (84, 82):	chomper
+E (84, 82):	chompers
+E (85, 120):	eds
+E (86, 189):	buzz
+E (87, 0):	hex
+E (88, 161):	can
+E (88, 161):	cans
+E (88, 45):	fan
+E (88, 54):	calculator
+E (88, 54):	calculators
+E (89, 240):	fan
+E (89, 86):	blink
+E (89, 86):	blinking
+E (9, 296):	fry
+E (92, 176):	crash
+E (92, 176):	crashes
+E (93, 266):	bug
+E (95, 26):	byte
+E (95, 48):	bot
+E (95, 69):	toy
+E (96, 161):	ups
+E (98, 149):	meg
+E (98, 149):	megs
+E (99, 223):	toy
+Found all words in 4.59611 seconds
+N (10, 277):	dded
+N (103, 187):	mod
+N (104, 258):	ice
+N (105, 17):	bit
+N (105, 248):	meg
+N (105, 248):	megs
+N (106, 149):	zen
+N (107, 34):	doc
+N (108, 130):	gen
+N (108, 285):	rip
+N (109, 299):	eds
+N (11, 59):	gun
+N (11, 85):	ops
+N (110, 33):	fan
+N (112, 62):	hung
+N (113, 160):	hex
+N (114, 11):	fix
+N (114, 232):	zip
+N (116, 251):	zap
+N (119, 279):	eds
+N (12, 158):	meg
+N (120, 127):	rip
+N (121, 222):	pop
+N (122, 188):	win
+N (122, 188):	wins
+N (122, 28):	bot
+N (123, 275):	fum
+N (123, 30):	ops
+N (123, 45):	bug
+N (124, 252):	mod
+N (125, 118):	won
+N (125, 169):	tee
+N (125, 188):	ops
+N (125, 260):	hat
+N (127, 6):	cat
+N (13, 258):	die
+N (130, 94):	dead
+N (135, 203):	die
+N (136, 216):	bum
+N (138, 20):	boa
+N (138, 41):	hex
+N (140, 12):	ops
+N (140, 130):	toy
+N (141, 221):	bit
+N (141, 240):	pop
+N (141, 285):	bar
+N (143, 246):	meg
+N (143, 33):	gorp
+N (144, 236):	rip
+N (144, 283):	die
+N (144, 38):	app
+N (145, 252):	doc
+N (145, 43):	mung
+N (146, 134):	can
+N (149, 271):	mod
+N (149, 35):	inc
+N (15, 199):	echo
+N (150, 120):	toy
+N (150, 120):	toys
+N (150, 35):	win
+N (151, 105):	pop
+N (151, 76):	hing
+N (153, 15):	can
+N (153, 213):	bum
+N (154, 14):	gun
+N (154, 28):	pod
+N (155, 220):	say
+N (155, 88):	kit
+N (156, 129):	fan
+N (157, 219):	cat
+N (157, 97):	can
+N (159, 100):	ice
+N (16, 198):	con
+N (160, 49):	hat
+N (161, 212):	can
+N (162, 147):	gas
+N (162, 160):	inc
+N (163, 290):	bug
+N (164, 144):	zero
+N (164, 152):	node
+N (164, 295):	bot
+N (165, 245):	bob
+N (165, 49):	bob
+N (168, 189):	eds
+N (168, 224):	hat
+N (169, 125):	zip
+N (169, 273):	lag
+N (17, 3):	mod
+N (17, 30):	rip
+N (17, 64):	zip
+N (170, 117):	pop
+N (171, 195):	alt
+N (171, 21):	mod
+N (172, 111):	lag
+N (173, 30):	lag
+N (173, 37):	bug
+N (173, 37):	bugs
+N (175, 212):	die
+N (175, 230):	byte
+N (175, 278):	boa
+N (175, 54):	lag
+N (176, 146):	can
+N (177, 153):	hex
+N (18, 206):	ice
+N (181, 114):	rip
+N (181, 147):	boa
+N (181, 16):	gas
+N (181, 233):	gen
+N (182, 53):	gig
+N (182, 89):	swab
+N (183, 128):	gig
+N (184, 138):	var
+N (184, 93):	fum
+N (184, 93):	fums
+N (186, 66):	hex
+N (187, 290):	box
+N (188, 171):	zen
+N (188, 82):	fry
+N (189, 168):	bob
+N (189, 174):	win
+N (189, 7):	bit
+N (19, 84):	kit
+N (190, 223):	bob
+N (194, 81):	kit
+N (196, 266):	meg
+N (197, 14):	inc
+N (198, 140):	evil
+N (20, 166):	ken
+N (20, 166):	kens
+N (201, 9):	hop
+N (206, 103):	bum
+N (206, 284):	dds
+N (206, 7):	fan
+N (207, 190):	hat
+N (208, 291):	root
+N (21, 127):	fix
+N (21, 143):	can
+N (210, 74):	kit
+N (211, 120):	beam
+N (211, 205):	zen
+N (212, 278):	bot
+N (213, 208):	can
+N (213, 243):	dds
+N (216, 17):	blat
+N (217, 219):	hog
+N (217, 51):	cat
+N (217, 95):	app
+N (221, 15):	dink
+N (222, 204):	hex
+N (224, 149):	kit
+N (224, 231):	gig
+N (225, 197):	hop
+N (225, 207):	hat
+N (226, 280):	fix
+N (227, 211):	meg
+N (228, 159):	tee
+N (228, 297):	app
+N (228, 97):	nude
+N (23, 14):	spun
+N (230, 69):	bob
+N (231, 121):	bar
+N (231, 189):	pop
+N (234, 108):	foo
+N (234, 202):	kit
+N (235, 290):	slab
+N (236, 149):	foo
+N (236, 279):	bit
+N (239, 67):	dds
+N (24, 244):	bum
+N (24, 258):	bug
+N (242, 167):	win
+N (243, 151):	hop
+N (244, 276):	pod
+N (244, 96):	bug
+N (249, 114):	foo
+N (25, 202):	cat
+N (25, 8):	evil
+N (250, 225):	cat
+N (250, 267):	ops
+N (257, 227):	con
+N (260, 15):	ups
+N (261, 172):	bum
+N (261, 27):	fry
+N (262, 150):	alt
+N (262, 188):	zip
+N (263, 147):	zen
+N (268, 86):	die
+N (269, 14):	die
+N (269, 52):	bot
+N (27, 204):	gig
+N (270, 266):	alt
+N (271, 17):	doc
+N (274, 34):	ops
+N (277, 63):	blat
+N (278, 25):	dds
+N (28, 117):	hog
+N (280, 18):	bit
+N (281, 115):	app
+N (282, 267):	boa
+N (282, 292):	con
+N (282, 292):	cons
+N (284, 106):	gas
+N (284, 257):	hat
+N (285, 136):	win
+N (286, 237):	foo
+N (287, 119):	meg
+N (287, 186):	foo
+N (288, 225):	meg
+N (288, 51):	gen
+N (289, 213):	ken
+N (289, 213):	kens
+N (291, 135):	con
+N (291, 189):	inc
+N (295, 196):	say
+N (295, 267):	bum
+N (295, 58):	lag
+N (295, 62):	rip
+N (295, 96):	eds
+N (296, 288):	zen
+N (297, 176):	doc
+N (298, 1):	pop
+N (299, 155):	bit
+N (299, 155):	bits
+N (299, 66):	lose
+N (3, 111):	gas
+N (3, 197):	zen
+N (3, 203):	zen
+N (3, 25):	hog
+N (31, 191):	toy
+N (32, 19):	lag
+N (32, 283):	foo
+N (33, 190):	gen
+N (35, 196):	pop
+N (36, 244):	rip
+N (36, 251):	can
+N (37, 190):	hog
+N (38, 154):	lag
+N (39, 235):	con
+N (4, 9):	fan
+N (40, 253):	foo
+N (42, 104):	foo
+N (42, 164):	tee
+N (42, 252):	die
+N (42, 252):	died
+N (45, 102):	fix
+N (45, 153):	meg
+N (45, 174):	pod
+N (45, 247):	zen
+N (46, 132):	alt
+N (5, 200):	zen
+N (50, 215):	rip
+N (52, 174):	boa
+N (52, 281):	zen
+N (52, 33):	fix
+N (53, 200):	rip
+N (55, 212):	bar
+N (56, 155):	gen
+N (56, 156):	gas
+N (59, 254):	won
+N (6, 285):	bit
+N (60, 237):	box
+N (61, 293):	dds
+N (62, 101):	tee
+N (62, 229):	var
+N (63, 174):	hog
+N (65, 126):	bot
+N (67, 182):	bug
+N (67, 182):	bugs
+N (68, 48):	zap
+N (69, 146):	hop
+N (7, 36):	die
+N (71, 278):	bar
+N (71, 58):	gas
+N (71, 74):	glob
+N (72, 77):	huff
+N (73, 180):	boa
+N (74, 192):	lag
+N (74, 251):	hair
+N (74, 286):	alt
+N (75, 182):	zen
+N (75, 84):	app
+N (75, 84):	apps
+N (76, 136):	hat
+N (76, 84):	zap
+N (77, 39):	bug
+N (78, 165):	box
+N (78, 45):	hat
+N (8, 95):	hog
+N (80, 188):	won
+N (81, 12):	node
+N (81, 280):	con
+N (82, 259):	pod
+N (82, 272):	var
+N (83, 16):	tube
+N (83, 183):	fum
+N (84, 97):	say
+N (85, 102):	box
+N (85, 231):	boa
+N (86, 283):	fry
+N (87, 160):	hop
+N (87, 238):	gas
+N (88, 171):	kit
+N (89, 184):	ice
+N (89, 80):	bit
+N (9, 87):	app
+N (93, 122):	lag
+N (93, 221):	exec
+N (94, 297):	gas
+N (95, 43):	gag
+N (96, 212):	zen
+N (97, 153):	hog
+N (97, 49):	foo
+N (97, 49):	fool
+N (97, 70):	hook
+N (98, 104):	bit
+N (99, 110):	lag
+N (99, 191):	fix
+N (99, 59):	boa
+NE(100, 126):	hog
+NE(100, 238):	pod
+NE(104, 122):	die
+NE(104, 83):	toy
+NE(107, 204):	con
+NE(107, 204):	cons
+NE(107, 267):	bob
+NE(107, 80):	lag
+NE(11, 10):	ken
+NE(11, 21):	gun
+NE(11, 236):	meta
+NE(113, 295):	pod
+NE(114, 98):	bot
+NE(117, 4):	cat
+NE(117, 4):	cats
+NE(118, 56):	won
+NE(121, 172):	kit
+NE(121, 285):	win
+NE(124, 107):	sync
+NE(124, 84):	ice
+NE(126, 23):	ken
+NE(127, 199):	inc
+NE(127, 265):	bum
+NE(127, 57):	fix
+NE(128, 110):	die
+NE(128, 110):	dies
+NE(13, 257):	win
+NE(13, 55):	gen
+NE(130, 139):	gag
+NE(130, 39):	box
+NE(132, 133):	frag
+NE(133, 60):	app
+NE(134, 30):	cat
+NE(135, 47):	can
+NE(136, 24):	doc
+NE(143, 65):	bug
+NE(143, 8):	ups
+NE(144, 120):	con
+NE(144, 65):	ice
+NE(147, 11):	pod
+NE(148, 137):	var
+NE(148, 58):	ups
+NE(149, 178):	bot
+NE(15, 136):	pod
+NE(15, 79):	can
+NE(150, 115):	boa
+NE(151, 104):	box
+NE(151, 151):	con
+NE(151, 182):	hop
+NE(151, 59):	dds
+NE(152, 214):	mod
+NE(154, 245):	slab
+NE(155, 130):	app
+NE(156, 31):	bar
+NE(158, 46):	var
+NE(161, 49):	bob
+NE(161, 61):	boa
+NE(162, 107):	tee
+NE(162, 143):	pop
+NE(163, 221):	con
+NE(164, 295):	buzz
+NE(165, 244):	hog
+NE(165, 281):	gig
+NE(167, 61):	pod
+NE(169, 264):	con
+NE(170, 79):	fix
+NE(172, 30):	app
+NE(173, 17):	tee
+NE(174, 264):	rip
+NE(174, 288):	bug
+NE(175, 228):	bit
+NE(177, 271):	gun
+NE(177, 271):	guns
+NE(179, 180):	ups
+NE(179, 80):	box
+NE(18, 203):	fan
+NE(18, 295):	gen
+NE(182, 278):	bum
+NE(185, 183):	inc
+NE(185, 238):	zen
+NE(186, 155):	gen
+NE(186, 80):	meg
+NE(187, 249):	fix
+NE(188, 54):	kit
+NE(189, 165):	fum
+NE(192, 279):	ken
+NE(195, 224):	hat
+NE(196, 147):	dded
+NE(197, 202):	can
+NE(198, 137):	gas
+NE(201, 160):	hat
+NE(203, 291):	thud
+NE(204, 125):	lag
+NE(204, 208):	lag
+NE(207, 223):	fan
+NE(207, 89):	say
+NE(209, 171):	die
+NE(209, 254):	rip
+NE(210, 98):	boa
+NE(211, 105):	box
+NE(211, 111):	lase
+NE(211, 120):	boa
+NE(211, 148):	foo
+NE(213, 283):	box
+NE(213, 7):	zip
+NE(216, 92):	zap
+NE(219, 290):	rip
+NE(22, 230):	can
+NE(222, 63):	app
+NE(223, 198):	ups
+NE(23, 38):	toy
+NE(230, 56):	bit
+NE(230, 60):	won
+NE(231, 243):	zen
+NE(231, 266):	gun
+NE(231, 270):	gas
+NE(233, 200):	die
+NE(235, 106):	grok
+NE(235, 14):	eds
+NE(235, 98):	boa
+NE(236, 76):	hog
+NE(237, 111):	can
+NE(237, 113):	con
+NE(237, 227):	win
+NE(239, 13):	zap
+NE(239, 287):	zap
+NE(242, 119):	gig
+NE(242, 219):	zen
+NE(243, 211):	poke
+NE(244, 238):	gag
+NE(245, 203):	toy
+NE(246, 216):	var
+NE(247, 219):	bot
+NE(247, 291):	ops
+NE(249, 236):	hex
+NE(249, 252):	toy
+NE(249, 273):	ice
+NE(249, 35):	con
+NE(250, 127):	alt
+NE(251, 175):	app
+NE(252, 49):	ups
+NE(253, 98):	can
+NE(255, 140):	bob
+NE(255, 140):	bobs
+NE(255, 252):	zen
+NE(258, 105):	zap
+NE(258, 6):	win
+NE(260, 127):	lag
+NE(261, 68):	bum
+NE(262, 198):	ice
+NE(263, 10):	box
+NE(264, 207):	die
+NE(264, 69):	leak
+NE(265, 79):	box
+NE(268, 72):	down
+NE(270, 151):	meg
+NE(270, 162):	frag
+NE(270, 182):	die
+NE(270, 182):	dies
+NE(274, 16):	kit
+NE(276, 176):	ken
+NE(276, 71):	thud
+NE(277, 139):	cat
+NE(277, 256):	lag
+NE(278, 255):	flag
+NE(278, 78):	fum
+NE(279, 199):	boa
+NE(281, 272):	tee
+NE(282, 293):	fum
+NE(283, 122):	ops
+NE(283, 278):	fan
+NE(283, 36):	gag
+NE(287, 233):	gen
+NE(287, 56):	fan
+NE(288, 259):	mod
+NE(288, 26):	inc
+NE(288, 72):	fry
+NE(289, 113):	tee
+NE(29, 252):	fan
+NE(290, 49):	gig
+NE(291, 195):	fan
+NE(292, 111):	alt
+NE(293, 229):	ups
+NE(295, 4):	fum
+NE(295, 92):	dds
+NE(296, 22):	app
+NE(296, 49):	meg
+NE(299, 100):	hose
+NE(32, 248):	gag
+NE(33, 13):	con
+NE(33, 91):	tee
+NE(35, 194):	hop
+NE(37, 20):	pod
+NE(39, 147):	can
+NE(39, 259):	boa
+NE(4, 117):	foo
+NE(40, 15):	ken
+NE(42, 274):	box
+NE(42, 35):	hole
+NE(44, 75):	bar
+NE(45, 260):	fry
+NE(46, 186):	hat
+NE(49, 270):	hat
+NE(5, 55):	ice
+NE(53, 55):	boa
+NE(54, 159):	fum
+NE(54, 98):	pop
+NE(55, 178):	biff
+NE(55, 194):	gas
+NE(55, 214):	lag
+NE(56, 265):	bug
+NE(57, 171):	won
+NE(57, 66):	win
+NE(58, 250):	hex
+NE(6, 254):	zip
+NE(6, 72):	foo
+NE(60, 42):	mod
+NE(62, 163):	bug
+NE(63, 171):	tee
+NE(65, 24):	gen
+NE(65, 274):	fum
+NE(66, 81):	alt
+NE(67, 31):	say
+NE(7, 174):	cray
+NE(7, 213):	hop
+NE(7, 56):	won
+NE(7, 99):	gen
+NE(70, 216):	app
+NE(70, 236):	zen
+NE(72, 6):	rave
+NE(74, 128):	gig
+NE(74, 139):	bar
+NE(74, 80):	meg
+NE(75, 87):	pop
+NE(76, 218):	boa
+NE(78, 253):	zen
+NE(8, 266):	zen
+NE(80, 111):	alt
+NE(80, 247):	alt
+NE(82, 197):	saga
+NE(82, 271):	cat
+NE(82, 51):	flap
+NE(83, 295):	fum
+NE(83, 65):	bit
+NE(85, 258):	hog
+NE(86, 16):	doc
+NE(87, 46):	hex
+NE(89, 161):	cat
+NE(89, 223):	zen
+NE(90, 225):	dds
+NE(90, 87):	win
+NE(90, 93):	eds
+NE(91, 3):	bar
+NE(92, 199):	gas
+NE(93, 265):	gig
+NE(94, 241):	bug
+NE(96, 39):	zip
+NE(97, 69):	toy
+NE(97, 95):	won
+NW(100, 190):	dds
+NW(102, 208):	bob
+NW(103, 31):	eds
+NW(105, 158):	tee
+NW(106, 89):	die
+NW(108, 128):	kit
+NW(108, 78):	fum
+NW(11, 176):	pop
+NW(110, 239):	foo
+NW(110, 58):	gen
+NW(111, 113):	gun
+NW(112, 131):	tick
+NW(112, 201):	won
+NW(114, 192):	gun
+NW(115, 225):	con
+NW(116, 117):	win
+NW(120, 136):	lag
+NW(121, 268):	ups
+NW(121, 293):	gen
+NW(122, 107):	gun
+NW(123, 205):	hog
+NW(123, 227):	gas
+NW(124, 233):	con
+NW(125, 119):	root
+NW(125, 228):	gig
+NW(125, 298):	say
+NW(126, 206):	fum
+NW(126, 295):	fry
+NW(127, 52):	alt
+NW(129, 298):	bar
+NW(129, 298):	barf
+NW(130, 143):	hog
+NW(133, 250):	gas
+NW(133, 44):	boa
+NW(134, 21):	doc
+NW(135, 43):	bug
+NW(136, 18):	gas
+NW(138, 164):	fan
+NW(139, 128):	fix
+NW(139, 197):	ken
+NW(14, 161):	tee
+NW(14, 221):	won
+NW(14, 51):	bum
+NW(140, 194):	bob
+NW(140, 36):	hog
+NW(140, 78):	ken
+NW(141, 118):	fry
+NW(141, 97):	zap
+NW(143, 12):	dds
+NW(143, 219):	kit
+NW(143, 271):	hat
+NW(144, 142):	gun
+NW(146, 89):	quad
+NW(147, 155):	bum
+NW(148, 154):	ken
+NW(15, 107):	alt
+NW(150, 109):	gun
+NW(151, 103):	say
+NW(152, 234):	meg
+NW(153, 48):	var
+NW(154, 14):	gun
+NW(154, 147):	hog
+NW(154, 34):	boa
+NW(155, 152):	say
+NW(155, 75):	hat
+NW(155, 86):	kit
+NW(155, 90):	hat
+NW(156, 291):	toy
+NW(156, 40):	boa
+NW(156, 52):	gun
+NW(157, 149):	pop
+NW(157, 167):	hung
+NW(157, 216):	meg
+NW(158, 190):	gag
+NW(158, 292):	hat
+NW(159, 48):	ups
+NW(16, 200):	ken
+NW(16, 244):	flap
+NW(160, 174):	bot
+NW(161, 213):	lag
+NW(163, 10):	ping
+NW(163, 172):	pod
+NW(168, 145):	gas
+NW(168, 176):	doc
+NW(170, 253):	zen
+NW(172, 100):	gag
+NW(172, 138):	doc
+NW(173, 155):	foo
+NW(173, 155):	fool
+NW(178, 144):	fry
+NW(178, 97):	con
+NW(178, 97):	cons
+NW(179, 167):	inc
+NW(179, 295):	die
+NW(179, 95):	bit
+NW(179, 95):	bits
+NW(182, 164):	doc
+NW(183, 150):	bob
+NW(184, 29):	worm
+NW(184, 291):	zap
+NW(184, 55):	gig
+NW(184, 99):	core
+NW(185, 115):	cat
+NW(185, 115):	cats
+NW(185, 122):	fix
+NW(187, 267):	hat
+NW(188, 203):	fan
+NW(189, 205):	hog
+NW(189, 279):	zap
+NW(19, 251):	pop
+NW(190, 245):	won
+NW(190, 49):	zip
+NW(192, 145):	doc
+NW(193, 10):	nuke
+NW(193, 172):	con
+NW(194, 34):	gun
+NW(195, 177):	con
+NW(196, 248):	gas
+NW(197, 133):	fry
+NW(197, 4):	can
+NW(198, 103):	hat
+NW(2, 12):	mod
+NW(2, 241):	box
+NW(20, 196):	ken
+NW(200, 128):	gen
+NW(202, 265):	say
+NW(202, 5):	pod
+NW(203, 161):	eds
+NW(203, 209):	alt
+NW(204, 3):	gorp
+NW(205, 129):	gag
+NW(205, 27):	fum
+NW(206, 213):	var
+NW(206, 85):	bob
+NW(208, 49):	zip
+NW(208, 88):	toy
+NW(209, 136):	pop
+NW(21, 22):	gen
+NW(212, 179):	fora
+NW(213, 188):	gig
+NW(213, 188):	gigs
+NW(213, 213):	pod
+NW(216, 190):	ken
+NW(216, 256):	eds
+NW(22, 9):	rip
+NW(220, 142):	hog
+NW(220, 177):	hex
+NW(220, 260):	dds
+NW(221, 219):	wart
+NW(222, 157):	fum
+NW(223, 54):	box
+NW(225, 68):	kit
+NW(226, 33):	pod
+NW(227, 152):	meg
+NW(231, 16):	hop
+NW(231, 270):	gen
+NW(231, 62):	hog
+NW(232, 155):	bot
+NW(233, 293):	fix
+NW(235, 135):	boa
+NW(237, 125):	bum
+NW(237, 182):	ops
+NW(238, 221):	app
+NW(24, 200):	won
+NW(24, 38):	bob
+NW(240, 160):	zen
+NW(242, 74):	sync
+NW(243, 143):	inc
+NW(243, 63):	gen
+NW(244, 156):	hat
+NW(244, 19):	fan
+NW(245, 295):	hex
+NW(246, 284):	zap
+NW(246, 95):	fum
+NW(248, 275):	alt
+NW(25, 206):	zip
+NW(250, 67):	gonk
+NW(253, 120):	rip
+NW(253, 120):	rips
+NW(253, 159):	zap
+NW(255, 183):	buzz
+NW(255, 202):	dds
+NW(255, 203):	open
+NW(256, 262):	inc
+NW(258, 254):	die
+NW(26, 5):	punt
+NW(26, 88):	won
+NW(260, 10):	cat
+NW(262, 125):	mod
+NW(264, 270):	die
+NW(266, 132):	var
+NW(266, 78):	jock
+NW(267, 258):	life
+NW(267, 54):	alt
+NW(27, 152):	toy
+NW(271, 135):	fix
+NW(271, 214):	mod
+NW(271, 214):	mode
+NW(272, 104):	pod
+NW(272, 119):	var
+NW(273, 219):	tee
+NW(275, 192):	foo
+NW(276, 49):	bar
+NW(276, 50):	ice
+NW(277, 264):	rude
+NW(279, 152):	doc
+NW(279, 152):	docs
+NW(28, 201):	hat
+NW(280, 212):	die
+NW(280, 294):	bug
+NW(280, 36):	say
+NW(281, 122):	gen
+NW(281, 243):	toy
+NW(282, 181):	fix
+NW(284, 252):	toy
+NW(285, 48):	ken
+NW(285, 62):	ken
+NW(287, 200):	quad
+NW(287, 57):	pod
+NW(290, 111):	bar
+NW(291, 155):	poke
+NW(293, 231):	app
+NW(294, 96):	dded
+NW(297, 100):	boa
+NW(298, 184):	gas
+NW(299, 102):	bob
+NW(299, 104):	ups
+NW(299, 184):	die
+NW(299, 290):	fan
+NW(32, 269):	gun
+NW(35, 105):	ups
+NW(36, 135):	toy
+NW(37, 52):	box
+NW(39, 149):	var
+NW(39, 249):	won
+NW(40, 267):	pop
+NW(43, 203):	swab
+NW(44, 97):	doc
+NW(45, 249):	gun
+NW(45, 255):	chad
+NW(46, 145):	var
+NW(49, 188):	hair
+NW(49, 211):	toy
+NW(50, 26):	bar
+NW(51, 230):	bit
+NW(53, 102):	ice
+NW(54, 170):	cat
+NW(54, 241):	doc
+NW(55, 190):	pod
+NW(57, 25):	box
+NW(57, 27):	fry
+NW(58, 192):	inc
+NW(6, 62):	ken
+NW(6, 62):	kens
+NW(6, 72):	fan
+NW(6, 9):	hog
+NW(60, 209):	mod
+NW(60, 253):	bar
+NW(60, 50):	win
+NW(61, 179):	hat
+NW(63, 267):	meg
+NW(64, 7):	hog
+NW(64, 98):	hog
+NW(65, 163):	ice
+NW(66, 169):	pod
+NW(67, 107):	hat
+NW(67, 112):	zen
+NW(68, 44):	bar
+NW(68, 79):	won
+NW(69, 151):	zip
+NW(7, 239):	swab
+NW(71, 293):	mod
+NW(72, 272):	fix
+NW(74, 114):	app
+NW(74, 180):	eds
+NW(74, 8):	var
+NW(76, 110):	foo
+NW(76, 27):	ups
+NW(77, 107):	bar
+NW(77, 196):	var
+NW(77, 8):	win
+NW(77, 8):	wins
+NW(78, 249):	tee
+NW(79, 95):	ice
+NW(8, 40):	kit
+NW(80, 171):	fry
+NW(80, 233):	eds
+NW(80, 246):	hat
+NW(82, 244):	ice
+NW(82, 292):	hop
+NW(82, 52):	eds
+NW(85, 167):	user
+NW(86, 248):	bot
+NW(87, 122):	tee
+NW(88, 91):	say
+NW(89, 115):	win
+NW(89, 93):	gas
+NW(9, 275):	inc
+NW(91, 203):	ups
+NW(92, 235):	hat
+NW(94, 127):	say
+NW(95, 119):	ice
+NW(96, 76):	gen
+NW(97, 263):	mod
+S (0, 153):	broke
+S (0, 296):	fan
+S (1, 177):	ups
+S (10, 285):	var
+S (100, 106):	ground
+S (101, 135):	ups
+S (101, 264):	cat
+S (101, 80):	bar
+S (102, 56):	hex
+S (102, 59):	bit
+S (103, 81):	can
+S (104, 244):	blat
+S (104, 244):	blats
+S (104, 297):	hex
+S (105, 208):	compact
+S (105, 208):	compactest
+S (105, 34):	code
+S (105, 34):	codes
+S (106, 114):	fum
+S (107, 4):	crank
+S (107, 4):	cranking
+S (107, 40):	ops
+S (108, 296):	cowboy
+S (109, 112):	buzz
+S (109, 112):	buzzes
+S (109, 118):	chug
+S (109, 118):	chugs
+S (109, 202):	die
+S (109, 272):	blast
+S (109, 272):	blasts
+S (11, 122):	bar
+S (11, 122):	baroque
+S (11, 131):	fan
+S (11, 38):	hex
+S (110, 108):	hop
+S (111, 133):	pod
+S (111, 208):	test
+S (113, 290):	block
+S (113, 290):	blocked
+S (115, 283):	biff
+S (115, 283):	biffs
+S (117, 287):	wank
+S (119, 222):	pop
+S (119, 252):	con
+S (119, 252):	condom
+S (120, 111):	hog
+S (122, 17):	boa
+S (122, 216):	bigot
+S (122, 216):	bigots
+S (123, 174):	won
+S (125, 299):	eds
+S (126, 113):	zap
+S (126, 49):	core
+S (126, 49):	cores
+S (127, 72):	byte
+S (127, 72):	bytes
+S (128, 142):	con
+S (128, 142):	cons
+S (128, 232):	bar
+S (128, 232):	barf
+S (128, 232):	barfing
+S (13, 120):	fry
+S (131, 132):	cat
+S (131, 235):	box
+S (131, 257):	bug
+S (131, 257):	bugs
+S (134, 200):	chug
+S (134, 200):	chugged
+S (134, 69):	kit
+S (135, 280):	bot
+S (135, 64):	clean
+S (135, 64):	cleans
+S (136, 10):	dds
+S (136, 187):	rip
+S (137, 176):	win
+S (138, 144):	box
+S (138, 88):	beam
+S (138, 88):	beaming
+S (139, 240):	pop
+S (139, 73):	dds
+S (140, 122):	gen
+S (140, 22):	bot
+S (141, 170):	tune
+S (142, 144):	fix
+S (143, 23):	say
+S (143, 95):	bum
+S (143, 95):	bump
+S (145, 83):	con
+S (146, 134):	crash
+S (146, 134):	crashing
+S (146, 140):	win
+S (146, 285):	zip
+S (146, 285):	zips
+S (148, 257):	kit
+S (149, 105):	pop
+S (149, 160):	bar
+S (149, 209):	compress
+S (149, 209):	compressed
+S (149, 27):	die
+S (150, 127):	clock
+S (150, 127):	clocking
+S (150, 134):	hing
+S (151, 202):	clock
+S (151, 202):	clocked
+S (151, 204):	pipe
+S (152, 152):	boustrophedon
+S (152, 152):	boustrophedons
+S (153, 177):	bum
+S (153, 195):	win
+S (154, 195):	inc
+S (155, 37):	can
+S (155, 37):	cans
+S (157, 205):	benchmark
+S (157, 205):	benchmarks
+S (157, 213):	fix
+S (158, 241):	ops
+S (159, 109):	zen
+S (160, 144):	core
+S (162, 212):	blink
+S (163, 225):	var
+S (163, 245):	bob
+S (163, 49):	bob
+S (165, 24):	fum
+S (166, 112):	zap
+S (166, 251):	won
+S (167, 167):	coaster
+S (167, 167):	coasters
+S (167, 84):	chug
+S (168, 117):	pop
+S (168, 140):	con
+S (168, 140):	confuser
+S (168, 140):	confusers
+S (17, 8):	fan
+S (171, 186):	zen
+S (171, 54):	hog
+S (172, 135):	puff
+S (172, 140):	user
+S (172, 140):	users
+S (173, 297):	chemist
+S (174, 163):	hog
+S (174, 79):	bar
+S (174, 79):	barf
+S (174, 79):	barfs
+S (175, 168):	fix
+S (175, 43):	pipe
+S (176, 202):	doc
+S (177, 229):	bang
+S (178, 157):	box
+S (178, 38):	hog
+S (178, 86):	bit
+S (18, 162):	gen
+S (180, 223):	mod
+S (180, 223):	mods
+S (180, 251):	boink
+S (180, 53):	gig
+S (181, 128):	gig
+S (181, 201):	buzz
+S (181, 201):	buzzing
+S (182, 281):	hop
+S (182, 32):	beta
+S (182, 32):	betas
+S (186, 232):	ice
+S (186, 271):	doc
+S (187, 168):	bob
+S (187, 168):	bobs
+S (187, 280):	tick
+S (187, 290):	bot
+S (187, 39):	rip
+S (187, 39):	rips
+S (188, 105):	say
+S (188, 223):	bob
+S (188, 30):	tee
+S (190, 212):	bounce
+S (190, 212):	bounces
+S (191, 176):	dds
+S (193, 153):	boot
+S (193, 153):	booted
+S (193, 294):	zen
+S (194, 140):	blivet
+S (194, 216):	ops
+S (194, 260):	kit
+S (195, 10):	toy
+S (195, 140):	live
+S (197, 80):	con
+S (197, 80):	cons
+S (197, 80):	console
+S (197, 80):	consoles
+S (198, 195):	hex
+S (199, 122):	mod
+S (199, 57):	bit
+S (20, 219):	biff
+S (20, 219):	biffs
+S (201, 203):	var
+S (201, 62):	char
+S (201, 62):	chars
+S (203, 173):	cat
+S (203, 173):	cathedral
+S (203, 254):	arena
+S (203, 254):	arenas
+S (204, 23):	hop
+S (204, 239):	burble
+S (204, 239):	burbled
+S (205, 195):	rip
+S (208, 122):	say
+S (208, 257):	ice
+S (209, 132):	hack
+S (209, 178):	block
+S (209, 178):	blocks
+S (209, 46):	con
+S (21, 12):	bar
+S (21, 14):	ups
+S (210, 124):	zap
+S (210, 79):	chomp
+S (210, 79):	chomps
+S (211, 11):	boa
+S (211, 163):	con
+S (211, 54):	hop
+S (213, 72):	fan
+S (214, 134):	fum
+S (214, 8):	bum
+S (214, 8):	bump
+S (214, 8):	bumping
+S (214, 93):	cat
+S (215, 33):	con
+S (216, 204):	won
+S (217, 16):	fan
+S (217, 8):	ping
+S (218, 138):	var
+S (219, 175):	cracking
+S (22, 214):	hog
+S (22, 8):	live
+S (221, 260):	foo
+S (221, 94):	tee
+S (221, 99):	bug
+S (222, 198):	bum
+S (222, 198):	bumming
+S (222, 231):	gig
+S (222, 82):	bang
+S (222, 82):	bangs
+S (223, 1):	ops
+S (223, 41):	dds
+S (224, 7):	zen
+S (226, 208):	won
+S (226, 228):	zip
+S (226, 38):	cookie
+S (227, 18):	die
+S (227, 64):	ken
+S (228, 160):	doc
+S (228, 290):	amoeba
+S (228, 69):	bob
+S (229, 119):	die
+S (229, 189):	pop
+S (229, 19):	bot
+S (23, 265):	copper
+S (23, 265):	coppers
+S (230, 211):	kit
+S (231, 200):	rude
+S (231, 23):	mung
+S (232, 129):	chain
+S (232, 129):	chains
+S (232, 248):	boot
+S (233, 181):	tee
+S (233, 212):	ice
+S (233, 234):	lost
+S (236, 167):	hex
+S (237, 185):	sync
+S (237, 222):	box
+S (238, 22):	win
+S (238, 233):	ups
+S (238, 283):	ken
+S (240, 120):	win
+S (240, 281):	fry
+S (241, 105):	cat
+S (241, 105):	catatonic
+S (242, 226):	blat
+S (242, 68):	clone
+S (242, 68):	clones
+S (244, 251):	alt
+S (244, 254):	cat
+S (244, 81):	inc
+S (245, 20):	asbestos
+S (246, 12):	clock
+S (246, 12):	clocks
+S (246, 145):	toy
+S (247, 292):	die
+S (248, 154):	won
+S (25, 204):	gig
+S (25, 216):	lost
+S (251, 224):	boa
+S (252, 63):	inc
+S (253, 32):	eds
+S (254, 133):	cat
+S (254, 133):	cats
+S (255, 287):	baud
+S (255, 90):	abbrev
+S (256, 171):	bang
+S (257, 107):	hex
+S (258, 113):	clock
+S (258, 193):	poke
+S (259, 180):	say
+S (26, 296):	rip
+S (260, 13):	clean
+S (261, 101):	poll
+S (261, 112):	admin
+S (261, 112):	admins
+S (261, 69):	hat
+S (262, 169):	compact
+S (262, 248):	dink
+S (263, 97):	said
+S (264, 131):	bang
+S (264, 18):	brittle
+S (264, 18):	brittlest
+S (265, 182):	ups
+S (265, 57):	fan
+S (265, 85):	pod
+S (266, 39):	hop
+S (266, 89):	ups
+S (267, 104):	fan
+S (267, 136):	box
+S (267, 136):	boxes
+S (269, 213):	pod
+S (269, 65):	pod
+S (270, 118):	say
+S (270, 282):	win
+S (272, 145):	alt
+S (272, 296):	abbrev
+S (272, 296):	abbrevs
+S (273, 248):	dds
+S (273, 273):	dds
+S (274, 14):	chomp
+S (274, 14):	chomper
+S (274, 259):	dds
+S (274, 93):	eds
+S (276, 237):	bulletproof
+S (277, 64):	fum
+S (277, 77):	can
+S (277, 77):	cans
+S (278, 35):	banner
+S (278, 35):	banners
+S (279, 187):	bar
+S (28, 26):	life
+S (28, 282):	alt
+S (280, 162):	cookbook
+S (280, 25):	blink
+S (280, 25):	blinks
+S (280, 257):	alt
+S (281, 214):	gen
+S (282, 296):	kit
+S (282, 99):	say
+S (284, 165):	bum
+S (284, 38):	zero
+S (284, 38):	zeros
+S (285, 204):	dike
+S (285, 21):	arena
+S (286, 49):	chug
+S (286, 49):	chugging
+S (288, 243):	gun
+S (289, 1):	ken
+S (289, 228):	rip
+S (29, 214):	meg
+S (29, 73):	chad
+S (29, 73):	chads
+S (290, 153):	zap
+S (290, 65):	con
+S (292, 182):	browser
+S (292, 182):	browsers
+S (295, 22):	lag
+S (295, 279):	worm
+S (296, 1):	pop
+S (296, 151):	doc
+S (297, 254):	zip
+S (297, 58):	rip
+S (31, 17):	fum
+S (31, 221):	toy
+S (31, 66):	boa
+S (31, 66):	boas
+S (32, 249):	die
+S (32, 292):	burbling
+S (32, 59):	fry
+S (33, 196):	pop
+S (34, 294):	ops
+S (36, 147):	cracker
+S (36, 147):	crackers
+S (36, 196):	inc
+S (36, 238):	bot
+S (36, 57):	fry
+S (37, 208):	dds
+S (37, 253):	foo
+S (38, 35):	hex
+S (4, 231):	won
+S (40, 199):	amoeba
+S (40, 199):	amoebas
+S (41, 206):	tee
+S (41, 206):	tees
+S (41, 287):	bar
+S (42, 56):	break
+S (42, 56):	breaking
+S (43, 154):	mod
+S (45, 137):	zip
+S (45, 219):	kit
+S (46, 266):	can
+S (46, 276):	boink
+S (46, 276):	boinked
+S (46, 57):	meg
+S (47, 31):	ken
+S (48, 117):	hex
+S (49, 157):	hose
+S (5, 200):	zen
+S (5, 57):	boink
+S (5, 57):	boinking
+S (50, 234):	fish
+S (51, 147):	clobber
+S (51, 147):	clobbering
+S (52, 184):	inc
+S (52, 217):	biff
+S (52, 217):	biffing
+S (52, 291):	can
+S (54, 184):	con
+S (54, 184):	cons
+S (54, 184):	console
+S (57, 194):	fum
+S (57, 274):	ice
+S (57, 91):	zap
+S (59, 28):	bar
+S (60, 138):	win
+S (61, 244):	tee
+S (61, 259):	user
+S (61, 268):	crank
+S (61, 268):	cranked
+S (61, 275):	ken
+S (62, 153):	bum
+S (62, 153):	bummed
+S (64, 111):	break
+S (64, 111):	breaks
+S (64, 180):	batch
+S (65, 100):	compo
+S (65, 109):	bar
+S (68, 281):	trap
+S (69, 12):	boustrophedon
+S (69, 254):	gen
+S (69, 81):	cat
+S (69, 81):	catted
+S (7, 135):	flap
+S (7, 236):	ops
+S (7, 286):	compress
+S (7, 286):	compresses
+S (70, 131):	hop
+S (70, 149):	ken
+S (70, 289):	rape
+S (71, 114):	kit
+S (72, 138):	ups
+S (72, 49):	bit
+S (72, 49):	bits
+S (74, 235):	hop
+S (74, 38):	var
+S (75, 132):	mod
+S (75, 145):	boa
+S (76, 218):	bit
+S (78, 163):	hex
+S (79, 191):	dds
+S (8, 138):	zap
+S (8, 138):	zaps
+S (8, 29):	fry
+S (81, 298):	foo
+S (81, 72):	inc
+S (82, 42):	app
+S (82, 42):	apps
+S (83, 285):	app
+S (84, 141):	win
+S (84, 47):	clean
+S (84, 47):	cleaner
+S (84, 89):	say
+S (85, 141):	inc
+S (85, 250):	char
+S (85, 295):	con
+S (88, 103):	check
+S (88, 241):	lag
+S (89, 288):	buzz
+S (89, 288):	buzzed
+S (89, 46):	meg
+S (89, 46):	megs
+S (9, 176):	hop
+S (9, 63):	hat
+S (90, 274):	cowboy
+S (90, 274):	cowboys
+S (91, 210):	bar
+S (91, 210):	bars
+S (92, 61):	rip
+S (93, 43):	gag
+S (95, 157):	alt
+S (96, 106):	background
+S (96, 106):	backgrounds
+S (96, 230):	crash
+S (97, 272):	die
+S (99, 176):	bigot
+SE(100, 206):	bob
+SE(100, 243):	ups
+SE(100, 50):	rude
+SE(101, 128):	meme
+SE(101, 128):	memes
+SE(101, 14):	die
+SE(101, 263):	wart
+SE(101, 263):	warts
+SE(102, 287):	lag
+SE(103, 210):	tee
+SE(104, 124):	hat
+SE(104, 77):	lag
+SE(105, 180):	eds
+SE(107, 228):	gas
+SE(108, 153):	kit
+SE(108, 181):	toy
+SE(108, 252):	box
+SE(111, 43):	ken
+SE(112, 251):	con
+SE(113, 107):	rip
+SE(113, 182):	gun
+SE(114, 220):	won
+SE(115, 122):	bum
+SE(115, 149):	zen
+SE(119, 271):	hop
+SE(12, 108):	zen
+SE(120, 77):	can
+SE(122, 122):	can
+SE(123, 226):	gig
+SE(123, 270):	can
+SE(124, 7):	eds
+SE(125, 270):	eds
+SE(126, 211):	die
+SE(127, 124):	ken
+SE(127, 47):	ice
+SE(128, 139):	say
+SE(128, 139):	says
+SE(13, 16):	doc
+SE(13, 79):	hat
+SE(130, 257):	cat
+SE(132, 4):	gas
+SE(133, 120):	bot
+SE(133, 77):	zen
+SE(134, 224):	toy
+SE(136, 217):	die
+SE(137, 115):	won
+SE(138, 192):	bob
+SE(139, 293):	pod
+SE(14, 144):	box
+SE(14, 15):	app
+SE(141, 245):	ken
+SE(141, 253):	bug
+SE(144, 220):	cat
+SE(145, 197):	hog
+SE(147, 72):	say
+SE(148, 36):	ken
+SE(149, 267):	pod
+SE(150, 171):	fry
+SE(153, 53):	kit
+SE(155, 147):	pop
+SE(155, 218):	var
+SE(156, 188):	gag
+SE(158, 237):	boa
+SE(158, 29):	mod
+SE(158, 292):	hop
+SE(158, 292):	hops
+SE(159, 120):	con
+SE(159, 267):	eds
+SE(159, 293):	ops
+SE(164, 217):	bot
+SE(164, 242):	pod
+SE(165, 228):	hex
+SE(165, 241):	win
+SE(165, 71):	rip
+SE(166, 199):	gun
+SE(166, 199):	guns
+SE(168, 12):	foo
+SE(168, 139):	pod
+SE(169, 257):	eds
+SE(17, 249):	pop
+SE(170, 213):	rip
+SE(170, 98):	gag
+SE(172, 165):	gas
+SE(172, 176):	eds
+SE(172, 189):	fum
+SE(173, 69):	ups
+SE(174, 241):	die
+SE(175, 282):	ice
+SE(175, 65):	bomb
+SE(177, 112):	zip
+SE(177, 114):	win
+SE(177, 169):	fum
+SE(177, 169):	fums
+SE(177, 206):	fum
+SE(178, 284):	meg
+SE(179, 13):	boa
+SE(18, 253):	meg
+SE(180, 162):	code
+SE(180, 223):	meg
+SE(180, 69):	gen
+SE(180, 93):	fix
+SE(181, 130):	gen
+SE(181, 148):	bob
+SE(181, 180):	cat
+SE(181, 47):	kit
+SE(182, 53):	gig
+SE(183, 245):	alt
+SE(183, 71):	meme
+SE(184, 253):	var
+SE(185, 238):	zap
+SE(185, 26):	bug
+SE(189, 204):	inc
+SE(189, 276):	hat
+SE(19, 0):	say
+SE(19, 142):	say
+SE(19, 160):	zap
+SE(19, 97):	cray
+SE(190, 290):	rip
+SE(190, 34):	win
+SE(191, 23):	lag
+SE(192, 257):	bit
+SE(192, 34):	fry
+SE(193, 101):	meg
+SE(194, 112):	foo
+SE(194, 124):	ken
+SE(195, 219):	alt
+SE(197, 256):	say
+SE(198, 101):	poke
+SE(20, 47):	zap
+SE(200, 119):	fry
+SE(201, 167):	spam
+SE(201, 74):	boa
+SE(201, 90):	boa
+SE(203, 127):	gag
+SE(204, 233):	die
+SE(204, 83):	bob
+SE(206, 165):	inc
+SE(207, 134):	pop
+SE(207, 141):	gen
+SE(208, 40):	fry
+SE(21, 60):	toy
+SE(211, 11):	bar
+SE(211, 186):	gig
+SE(212, 0):	boa
+SE(212, 125):	tron
+SE(213, 264):	tee
+SE(214, 140):	fry
+SE(214, 231):	var
+SE(215, 121):	gas
+SE(215, 79):	spin
+SE(217, 239):	inc
+SE(218, 188):	dds
+SE(218, 193):	hog
+SE(219, 229):	doc
+SE(219, 40):	gen
+SE(219, 92):	alt
+SE(22, 36):	bob
+SE(220, 148):	bot
+SE(220, 90):	die
+SE(221, 146):	win
+SE(221, 293):	elite
+SE(221, 34):	inc
+SE(222, 118):	win
+SE(223, 160):	toy
+SE(223, 163):	win
+SE(223, 239):	hog
+SE(224, 228):	zap
+SE(225, 80):	con
+SE(226, 172):	fix
+SE(226, 248):	fum
+SE(226, 43):	bum
+SE(227, 272):	con
+SE(228, 40):	bug
+SE(230, 66):	doc
+SE(231, 143):	fix
+SE(232, 155):	bum
+SE(232, 287):	hog
+SE(232, 287):	hogs
+SE(232, 76):	meg
+SE(234, 146):	hop
+SE(234, 259):	gun
+SE(236, 65):	pod
+SE(24, 49):	app
+SE(241, 250):	gen
+SE(241, 82):	doc
+SE(242, 218):	say
+SE(245, 219):	gorp
+SE(246, 190):	lag
+SE(246, 193):	zap
+SE(247, 30):	die
+SE(248, 138):	con
+SE(249, 138):	die
+SE(249, 288):	hog
+SE(25, 286):	zip
+SE(251, 97):	warez
+SE(252, 213):	hat
+SE(253, 292):	gas
+SE(254, 252):	bum
+SE(255, 129):	tee
+SE(255, 226):	mod
+SE(256, 115):	won
+SE(257, 143):	bug
+SE(259, 182):	bot
+SE(26, 125):	tee
+SE(26, 252):	fan
+SE(260, 146):	inc
+SE(260, 167):	inc
+SE(260, 79):	tee
+SE(262, 158):	won
+SE(262, 261):	var
+SE(262, 83):	var
+SE(264, 18):	bit
+SE(264, 222):	var
+SE(266, 160):	fry
+SE(267, 135):	hog
+SE(269, 27):	bot
+SE(27, 192):	bar
+SE(271, 248):	die
+SE(277, 109):	zap
+SE(280, 61):	bot
+SE(281, 202):	inc
+SE(284, 250):	fum
+SE(285, 234):	inc
+SE(285, 250):	toy
+SE(286, 194):	rip
+SE(287, 134):	hat
+SE(287, 256):	zip
+SE(288, 58):	bar
+SE(289, 257):	ops
+SE(29, 96):	bum
+SE(290, 184):	inc
+SE(292, 106):	alt
+SE(293, 172):	kit
+SE(293, 236):	say
+SE(293, 238):	doc
+SE(293, 47):	inc
+SE(297, 100):	bob
+SE(30, 102):	ice
+SE(30, 56):	doc
+SE(32, 142):	fan
+SE(32, 284):	inc
+SE(33, 268):	won
+SE(36, 117):	bug
+SE(36, 230):	chug
+SE(37, 253):	fry
+SE(38, 265):	pop
+SE(38, 274):	hex
+SE(39, 287):	zen
+SE(4, 244):	dds
+SE(41, 2):	fry
+SE(43, 195):	bug
+SE(46, 110):	bomb
+SE(46, 12):	box
+SE(46, 197):	zip
+SE(46, 90):	trap
+SE(48, 28):	lag
+SE(49, 120):	bot
+SE(49, 205):	demo
+SE(51, 73):	zap
+SE(52, 154):	ops
+SE(55, 261):	inc
+SE(56, 278):	bum
+SE(58, 198):	var
+SE(58, 198):	vars
+SE(58, 42):	pod
+SE(59, 259):	alt
+SE(60, 262):	bot
+SE(62, 153):	bug
+SE(62, 183):	foo
+SE(62, 93):	fum
+SE(64, 222):	bar
+SE(65, 210):	hex
+SE(68, 15):	cube
+SE(68, 195):	tee
+SE(68, 255):	zen
+SE(72, 23):	gas
+SE(73, 33):	hat
+SE(74, 4):	fum
+SE(75, 188):	won
+SE(76, 72):	can
+SE(77, 255):	cat
+SE(77, 279):	hop
+SE(77, 7):	die
+SE(85, 193):	ken
+SE(87, 253):	suit
+SE(9, 174):	pop
+SE(90, 283):	gen
+SE(91, 50):	ops
+SE(94, 64):	win
+SE(95, 84):	die
+SE(97, 271):	bit
+SE(97, 292):	zap
+SE(98, 138):	bum
+SE(98, 293):	app
+SE(99, 118):	boa
+SE(99, 189):	dds
+SW(1, 262):	shim
+SW(1, 35):	rip
+SW(10, 280):	meg
+SW(100, 282):	fix
+SW(102, 64):	mod
+SW(103, 88):	hex
+SW(105, 16):	var
+SW(105, 269):	bob
+SW(107, 211):	fry
+SW(107, 96):	zap
+SW(108, 167):	app
+SW(110, 246):	toy
+SW(112, 153):	meg
+SW(112, 262):	tool
+SW(113, 287):	smurf
+SW(114, 218):	eds
+SW(114, 73):	cat
+SW(116, 59):	fry
+SW(117, 270):	gorp
+SW(118, 241):	won
+SW(118, 293):	ice
+SW(119, 203):	beam
+SW(120, 128):	fan
+SW(124, 162):	clean
+SW(124, 30):	fix
+SW(125, 107):	eds
+SW(126, 50):	doc
+SW(128, 141):	gag
+SW(128, 32):	hop
+SW(129, 36):	bit
+SW(13, 216):	bot
+SW(13, 259):	meg
+SW(130, 226):	box
+SW(130, 68):	zen
+SW(133, 103):	con
+SW(133, 148):	ops
+SW(135, 281):	lost
+SW(135, 94):	bit
+SW(136, 152):	fix
+SW(137, 32):	toy
+SW(137, 32):	toys
+SW(138, 139):	toy
+SW(138, 178):	cat
+SW(139, 133):	gas
+SW(139, 21):	gun
+SW(14, 259):	app
+SW(14, 67):	zen
+SW(14, 86):	fix
+SW(140, 268):	bug
+SW(145, 265):	gun
+SW(145, 28):	gas
+SW(145, 72):	fix
+SW(146, 235):	ken
+SW(146, 99):	dds
+SW(148, 192):	gas
+SW(15, 170):	inc
+SW(150, 234):	ken
+SW(150, 239):	bar
+SW(152, 278):	fix
+SW(153, 292):	foo
+SW(153, 99):	ken
+SW(154, 248):	doc
+SW(154, 293):	bot
+SW(154, 51):	won
+SW(156, 156):	guru
+SW(156, 200):	spin
+SW(157, 230):	eds
+SW(159, 111):	can
+SW(159, 291):	zip
+SW(159, 51):	bob
+SW(159, 89):	doc
+SW(159, 95):	ops
+SW(16, 165):	con
+SW(160, 145):	pop
+SW(160, 25):	bit
+SW(161, 111):	cat
+SW(163, 283):	gig
+SW(164, 236):	bit
+SW(164, 57):	bot
+SW(165, 49):	bug
+SW(166, 292):	fix
+SW(168, 61):	meg
+SW(17, 15):	die
+SW(171, 213):	win
+SW(171, 75):	say
+SW(172, 127):	lag
+SW(172, 188):	foo
+SW(172, 272):	die
+SW(172, 84):	boa
+SW(174, 70):	pod
+SW(176, 69):	cat
+SW(177, 182):	spun
+SW(179, 170):	doc
+SW(179, 194):	ups
+SW(181, 215):	dds
+SW(182, 107):	bomb
+SW(182, 24):	hop
+SW(182, 265):	zen
+SW(182, 277):	bar
+SW(183, 96):	hex
+SW(185, 291):	root
+SW(186, 219):	hat
+SW(186, 35):	bot
+SW(189, 122):	grok
+SW(190, 5):	ice
+SW(190, 58):	box
+SW(191, 61):	nick
+SW(192, 257):	bug
+SW(193, 289):	won
+SW(196, 188):	zen
+SW(196, 260):	tee
+SW(197, 181):	hop
+SW(198, 194):	hat
+SW(198, 35):	cat
+SW(198, 50):	bit
+SW(199, 228):	alt
+SW(2, 26):	shim
+SW(2, 90):	zap
+SW(200, 18):	inc
+SW(200, 83):	lose
+SW(200, 83):	loses
+SW(201, 92):	hog
+SW(202, 68):	toy
+SW(204, 69):	foo
+SW(206, 273):	say
+SW(206, 273):	says
+SW(206, 71):	gen
+SW(208, 3):	boa
+SW(212, 234):	bit
+SW(212, 46):	rip
+SW(213, 68):	dds
+SW(215, 78):	tee
+SW(216, 166):	inc
+SW(216, 181):	won
+SW(218, 271):	dds
+SW(218, 62):	bit
+SW(219, 256):	can
+SW(219, 63):	zen
+SW(219, 63):	zens
+SW(221, 140):	die
+SW(221, 140):	died
+SW(225, 141):	cat
+SW(225, 141):	cats
+SW(225, 164):	hat
+SW(225, 76):	con
+SW(226, 224):	zip
+SW(226, 92):	hog
+SW(227, 12):	bit
+SW(227, 19):	win
+SW(228, 164):	won
+SW(23, 246):	bot
+SW(231, 151):	doc
+SW(231, 63):	ops
+SW(235, 270):	ups
+SW(236, 102):	test
+SW(237, 71):	mod
+SW(239, 218):	cat
+SW(239, 269):	sync
+SW(24, 235):	gen
+SW(24, 43):	boa
+SW(240, 121):	gig
+SW(240, 121):	gigs
+SW(240, 15):	ups
+SW(240, 67):	bum
+SW(242, 227):	alt
+SW(242, 240):	gag
+SW(244, 194):	ops
+SW(244, 218):	rave
+SW(244, 296):	shim
+SW(249, 65):	app
+SW(25, 217):	bot
+SW(250, 178):	alt
+SW(251, 175):	alt
+SW(252, 243):	var
+SW(253, 142):	bob
+SW(253, 31):	ops
+SW(253, 48):	zap
+SW(254, 132):	beep
+SW(255, 150):	zip
+SW(255, 244):	fum
+SW(257, 262):	toy
+SW(257, 56):	bot
+SW(258, 155):	bar
+SW(259, 183):	zip
+SW(26, 201):	zap
+SW(260, 178):	gas
+SW(261, 125):	can
+SW(261, 28):	can
+SW(261, 35):	toy
+SW(263, 93):	bit
+SW(264, 112):	inc
+SW(265, 76):	kit
+SW(265, 98):	eds
+SW(267, 104):	fum
+SW(267, 135):	hex
+SW(270, 192):	fry
+SW(270, 67):	can
+SW(272, 201):	foo
+SW(273, 15):	ice
+SW(273, 15):	ices
+SW(274, 261):	eds
+SW(274, 81):	gen
+SW(275, 127):	cat
+SW(278, 68):	win
+SW(279, 243):	con
+SW(279, 53):	win
+SW(279, 53):	wins
+SW(28, 181):	win
+SW(281, 38):	gag
+SW(281, 38):	gags
+SW(282, 232):	bum
+SW(283, 142):	pod
+SW(286, 222):	zen
+SW(286, 56):	ops
+SW(288, 139):	tee
+SW(288, 149):	boa
+SW(288, 295):	meg
+SW(288, 51):	gig
+SW(29, 243):	eds
+SW(290, 110):	rip
+SW(292, 35):	fry
+SW(293, 116):	ups
+SW(293, 59):	lag
+SW(294, 86):	hose
+SW(294, 93):	dds
+SW(295, 220):	pod
+SW(295, 240):	cat
+SW(3, 138):	pod
+SW(30, 250):	gag
+SW(32, 12):	var
+SW(34, 154):	can
+SW(34, 9):	fix
+SW(37, 144):	doc
+SW(38, 139):	zap
+SW(39, 138):	app
+SW(39, 147):	con
+SW(39, 217):	toy
+SW(39, 43):	mod
+SW(40, 103):	gen
+SW(40, 241):	box
+SW(41, 269):	ping
+SW(42, 157):	hop
+SW(43, 59):	gun
+SW(43, 73):	win
+SW(44, 113):	ups
+SW(46, 181):	toy
+SW(46, 231):	won
+SW(48, 34):	dds
+SW(5, 184):	gas
+SW(52, 100):	pop
+SW(52, 273):	foo
+SW(53, 190):	tool
+SW(53, 196):	saga
+SW(54, 114):	won
+SW(54, 164):	ice
+SW(55, 203):	alt
+SW(56, 35):	alt
+SW(58, 250):	hex
+SW(59, 74):	fum
+SW(6, 30):	toy
+SW(6, 9):	hop
+SW(64, 180):	bot
+SW(64, 181):	cat
+SW(65, 108):	win
+SW(65, 22):	tron
+SW(66, 126):	eds
+SW(68, 174):	can
+SW(69, 176):	boa
+SW(69, 222):	con
+SW(69, 282):	hat
+SW(7, 14):	gen
+SW(70, 8):	var
+SW(71, 63):	glob
+SW(72, 130):	gig
+SW(72, 134):	inc
+SW(72, 151):	meg
+SW(73, 172):	gen
+SW(73, 69):	boa
+SW(73, 70):	boa
+SW(73, 89):	pop
+SW(74, 236):	mod
+SW(75, 298):	toy
+SW(77, 180):	die
+SW(77, 198):	cat
+SW(78, 145):	ups
+SW(78, 237):	meg
+SW(79, 112):	lag
+SW(8, 253):	eds
+SW(80, 199):	gas
+SW(81, 184):	fum
+SW(81, 39):	fan
+SW(82, 119):	toy
+SW(83, 290):	lag
+SW(84, 41):	mod
+SW(84, 90):	hat
+SW(86, 88):	toy
+SW(87, 156):	hat
+SW(88, 282):	pod
+SW(89, 63):	mod
+SW(9, 139):	spam
+SW(9, 249):	rip
+SW(90, 265):	app
+SW(90, 275):	mod
+SW(91, 267):	gig
+SW(92, 63):	rape
+SW(95, 154):	hog
+SW(97, 206):	fum
+SW(99, 50):	boa
+W (1, 281):	bob
+W (1, 97):	con
+W (10, 41):	saga
+W (101, 159):	dead
+W (103, 127):	shim
+W (104, 228):	ops
+W (105, 114):	hog
+W (105, 120):	doc
+W (105, 4):	fry
+W (106, 148):	bum
+W (106, 47):	fix
+W (106, 90):	dds
+W (107, 153):	doc
+W (109, 244):	inc
+W (11, 278):	doc
+W (111, 128):	nuke
+W (112, 118):	gag
+W (112, 129):	gun
+W (113, 133):	die
+W (113, 266):	gen
+W (114, 120):	ops
+W (114, 173):	hog
+W (114, 43):	gen
+W (117, 178):	can
+W (117, 235):	win
+W (121, 227):	dds
+W (121, 99):	box
+W (122, 209):	zen
+W (122, 215):	zap
+W (123, 213):	bit
+W (124, 139):	zap
+W (124, 175):	bot
+W (126, 188):	gun
+W (128, 110):	die
+W (129, 23):	pop
+W (129, 250):	rip
+W (13, 127):	rip
+W (13, 216):	bum
+W (130, 176):	var
+W (130, 62):	ups
+W (131, 156):	bob
+W (131, 78):	ups
+W (132, 201):	boa
+W (133, 194):	inc
+W (133, 195):	win
+W (133, 233):	inc
+W (133, 290):	fry
+W (133, 295):	pop
+W (133, 44):	bit
+W (134, 57):	app
+W (135, 198):	bot
+W (137, 105):	zen
+W (137, 39):	bar
+W (138, 172):	pod
+W (139, 271):	pod
+W (14, 179):	hat
+W (14, 257):	gig
+W (140, 163):	zap
+W (140, 218):	fix
+W (141, 126):	app
+W (142, 119):	boa
+W (142, 238):	hop
+W (144, 222):	inc
+W (144, 223):	win
+W (144, 232):	box
+W (144, 294):	can
+W (144, 31):	fan
+W (147, 139):	can
+W (147, 43):	pop
+W (149, 238):	zen
+W (15, 171):	gig
+W (150, 123):	bob
+W (150, 149):	fry
+W (150, 160):	alt
+W (152, 109):	bar
+W (152, 139):	bum
+W (152, 218):	fry
+W (152, 291):	fan
+W (153, 133):	app
+W (153, 133):	apps
+W (153, 291):	rip
+W (153, 86):	bot
+W (154, 114):	mod
+W (155, 260):	say
+W (155, 9):	meg
+W (157, 190):	gag
+W (157, 34):	alt
+W (159, 142):	alt
+W (159, 153):	ups
+W (16, 171):	con
+W (16, 190):	text
+W (161, 248):	foo
+W (162, 127):	life
+W (162, 259):	push
+W (163, 224):	dds
+W (163, 44):	hop
+W (163, 84):	can
+W (164, 26):	can
+W (165, 244):	hog
+W (166, 166):	won
+W (166, 204):	app
+W (167, 143):	cat
+W (168, 199):	eds
+W (168, 274):	lag
+W (170, 226):	doc
+W (170, 59):	gas
+W (171, 81):	fry
+W (173, 191):	bug
+W (173, 47):	pop
+W (174, 79):	bar
+W (175, 103):	doc
+W (175, 167):	bum
+W (176, 33):	ice
+W (178, 39):	chug
+W (179, 70):	hop
+W (18, 135):	hat
+W (18, 221):	gun
+W (180, 270):	pod
+W (184, 16):	bob
+W (185, 18):	kit
+W (185, 299):	say
+W (186, 199):	meg
+W (187, 132):	rip
+W (187, 203):	gag
+W (187, 74):	ops
+W (188, 149):	ups
+W (189, 238):	cat
+W (189, 85):	kit
+W (191, 298):	rip
+W (192, 73):	won
+W (193, 113):	down
+W (193, 23):	hex
+W (194, 177):	doc
+W (194, 298):	bot
+W (196, 276):	toy
+W (196, 93):	pop
+W (197, 101):	bot
+W (198, 242):	fry
+W (20, 190):	var
+W (20, 282):	gen
+W (202, 223):	wheel
+W (203, 135):	say
+W (203, 51):	zip
+W (204, 281):	inc
+W (204, 284):	say
+W (205, 298):	won
+W (208, 209):	gas
+W (21, 107):	hose
+W (21, 153):	dink
+W (21, 296):	fum
+W (210, 257):	eds
+W (211, 94):	die
+W (212, 209):	var
+W (213, 266):	bit
+W (213, 277):	lint
+W (215, 194):	foo
+W (215, 224):	pop
+W (217, 219):	hop
+W (217, 22):	gag
+W (217, 267):	fix
+W (218, 106):	doc
+W (218, 142):	gig
+W (218, 233):	dds
+W (22, 228):	bar
+W (222, 208):	lag
+W (223, 99):	gun
+W (225, 224):	tee
+W (225, 246):	fan
+W (225, 31):	tee
+W (226, 136):	gig
+W (226, 136):	gigs
+W (226, 243):	ice
+W (228, 12):	fix
+W (228, 263):	var
+W (228, 263):	vars
+W (229, 159):	ken
+W (229, 62):	hog
+W (23, 174):	lag
+W (23, 70):	tick
+W (231, 137):	ken
+W (232, 267):	hog
+W (232, 31):	doc
+W (233, 127):	tee
+W (235, 155):	tron
+W (236, 298):	won
+W (238, 15):	bar
+W (24, 13):	zip
+W (24, 137):	boa
+W (24, 137):	boas
+W (24, 274):	bar
+W (241, 168):	gig
+W (243, 123):	die
+W (243, 219):	app
+W (243, 292):	meg
+W (246, 101):	fix
+W (246, 89):	dds
+W (248, 208):	zip
+W (248, 289):	fan
+W (249, 15):	die
+W (25, 148):	zip
+W (25, 66):	fum
+W (251, 107):	hop
+W (252, 151):	fan
+W (252, 168):	eds
+W (252, 88):	inc
+W (253, 194):	doc
+W (253, 238):	can
+W (253, 69):	fan
+W (254, 8):	semi
+W (256, 157):	bum
+W (257, 200):	swap
+W (258, 183):	app
+W (26, 218):	foo
+W (26, 235):	ken
+W (26, 24):	fum
+W (261, 7):	fix
+W (262, 165):	cat
+W (262, 165):	cats
+W (262, 97):	gag
+W (264, 298):	doc
+W (268, 60):	gen
+W (269, 181):	lag
+W (270, 248):	rip
+W (272, 138):	dds
+W (273, 218):	foo
+W (273, 84):	say
+W (274, 63):	tool
+W (274, 63):	tools
+W (274, 74):	fum
+W (276, 115):	boa
+W (276, 180):	zen
+W (276, 183):	bit
+W (278, 11):	doc
+W (278, 140):	foo
+W (278, 258):	pod
+W (278, 298):	dds
+W (278, 37):	bob
+W (28, 158):	hog
+W (28, 222):	alt
+W (28, 33):	bob
+W (28, 97):	foo
+W (280, 132):	gen
+W (283, 144):	hop
+W (283, 92):	mod
+W (284, 147):	hog
+W (284, 5):	bug
+W (286, 42):	lose
+W (286, 42):	loser
+W (287, 53):	tee
+W (289, 117):	zen
+W (289, 258):	pop
+W (289, 32):	meg
+W (290, 22):	foo
+W (291, 77):	die
+W (292, 286):	peon
+W (292, 286):	peons
+W (293, 230):	bug
+W (293, 277):	dds
+W (295, 56):	meme
+W (297, 114):	fum
+W (297, 96):	jock
+W (298, 169):	boa
+W (299, 297):	hex
+W (31, 176):	gig
+W (31, 20):	gas
+W (32, 163):	gun
+W (32, 244):	fry
+W (34, 197):	foo
+W (34, 233):	hat
+W (35, 289):	alt
+W (36, 63):	doc
+W (37, 166):	bob
+W (37, 253):	fan
+W (39, 119):	say
+W (39, 139):	gag
+W (39, 181):	meg
+W (4, 100):	beep
+W (40, 49):	fix
+W (41, 158):	bob
+W (42, 173):	chug
+W (43, 208):	die
+W (45, 277):	won
+W (46, 59):	bum
+W (47, 103):	bot
+W (47, 52):	dds
+W (48, 252):	won
+W (48, 41):	con
+W (49, 297):	bum
+W (5, 283):	doc
+W (5, 66):	fry
+W (50, 263):	hop
+W (51, 111):	lint
+W (52, 189):	path
+W (52, 63):	swab
+W (54, 159):	fan
+W (54, 159):	fans
+W (54, 232):	tee
+W (56, 294):	rip
+W (57, 129):	doc
+W (59, 215):	hop
+W (60, 234):	hop
+W (60, 66):	cube
+W (62, 299):	dds
+W (64, 64):	hog
+W (65, 223):	alt
+W (66, 229):	gag
+W (67, 259):	zip
+W (68, 146):	ops
+W (69, 130):	dds
+W (71, 234):	zap
+W (72, 219):	gun
+W (73, 172):	gorp
+W (73, 227):	ice
+W (73, 227):	ices
+W (73, 290):	meg
+W (75, 278):	bot
+W (76, 116):	die
+W (76, 127):	doc
+W (76, 294):	doc
+W (77, 259):	fum
+W (78, 167):	bob
+W (79, 290):	evil
+W (80, 149):	dds
+W (80, 232):	zap
+W (80, 95):	cat
+W (81, 198):	alt
+W (83, 286):	can
+W (84, 296):	ops
+W (85, 66):	won
+W (85, 94):	gen
+W (88, 160):	ops
+W (90, 186):	win
+W (94, 82):	bar
+W (95, 284):	doc
+W (96, 198):	bot
+W (96, 97):	toy
+W (97, 51):	huff
+W (97, 6):	eds

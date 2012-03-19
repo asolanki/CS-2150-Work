@@ -1,0 +1,16 @@
+addition.ibcm
+Write a single IBCM program that does the following:
+
+Gets three values from user input
+Stores the values into three variables
+Adds the variables together, and prints the sum (you may use additional memory if you wish)
+If the sum is zero, it prints the three values and stops
+If the sum is not zero, it starts over (tries to get three values, etc.)
+
+
+array.ibcm
+Write a second IBCM program that finds the maximum value in an array of values.
+
+The array base address is hard-coded into memory – meaning it’s a pre-set value, and this is not obtained by user input. You can have the array be all or part of the IBCM program, or a section of memory after the program with values that you have selected.
+You may also hard code other values, such as the number of elements in the array, into your program
+Before your program halts, it prints out the maximum value of the array
