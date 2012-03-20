@@ -7,7 +7,7 @@
 CXX = g++ -O2
 
 # with which flags?
-CXXFLAGS = -Wall -g 
+CXXFLAGS = -g 
 
 # what are the .o files for the program?
 OFILES = wordPuzzle.o hashTable.o timer.o 

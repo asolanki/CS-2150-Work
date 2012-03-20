@@ -13,14 +13,16 @@
 
 using namespace std;
 
+// max grid size
 #define MAXROWS 500
 #define MAXCOLS 500
 
+// global table[][] required for some provided functions
 char table[MAXROWS][MAXCOLS];
+timer t;
 
 bool readInTable (string filename, int &rows, int &cols); 
 char* getWordInTable (int startRow, int startCol, int dir, int len, int numRows, int numCol );
-timer t;
 
 int main (int argc, char ** argv)
 {
@@ -81,6 +83,7 @@ int main (int argc, char ** argv)
         }
 
         // start timer
+        // data initialized, begin algorithm
         t.start();
 
 
@@ -88,6 +91,7 @@ int main (int argc, char ** argv)
         string result;
         string direction;
 
+        // search each combination of row, column, direction, and length (up to maxLength) 
         for ( int currRow = 0; currRow < rows; currRow++ ) {
             for ( int currCol = 0; currCol < cols; currCol++ ) {
                 for ( int currDir = 0; currDir < 8; currDir++) {

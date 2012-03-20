@@ -10,47 +10,47 @@
 // constructor
 hashTable::hashTable(int size = 101)
 {
-    theLists = new vector< list <string> >;          // instantiate 'theLists'
+    theBuckets = new vector< list <string> >;          // instantiate 'theBuckets'
     wordMax = 0;
-    size = size << 1; // more iuckets!
+    size = size << 1; // more buckets!
 
     if (!checkforlargeprime(size))
-        size = getNextPrimeNumber(size);    // assert prime size
-    theLists->resize(size);
-    capacity = size;
+        size = getNextPrimeNumber(size);    // assert primeness
+    theBuckets->resize(size);
+    capacity = size;                        // store size
     for ( int i = 0; i < size; i++ )
     {
         list<string> temp;
-        theLists->push_back(temp);
+        theBuckets->push_back(temp);
     }
-//    cout << size << " is the prime # of buckets" << endl;
 }
 
 
 // destructor
 hashTable::~hashTable()
 {
-    delete theLists;
+    delete theBuckets;
 }
 
 bool hashTable::contains( const string & str ) const
 {
  
-    list<string> & theList = theLists->at( myhash( str ) );
-    //    cout << "List retrieved, executing find()" << endl;
+    // retrieve correct list from underlying vector based on hash
+    list<string> & theList = theBuckets->at( myhash( str ) );
     return (find(  theList.begin(), theList.end(), str) != (theList.end()));
 }
 
 bool hashTable::insert( const string & str )
 {
-    //cout << "starting insert method for string: " << str << endl;
+    // cout << "starting insert method for string: " << str << endl;
     if (!( this->contains(str) ))
     {
-    //        cout << "Element does not exist!  Retrieving the list" << endl;
-        list<string> & theList = theLists->at( myhash ( str ) );
-    //        cout << "Found list, pushing value onto end" << endl;
+        list<string> & theList = theBuckets->at( myhash ( str ) );
         theList.push_back(str);
         int len = str.length();
+        
+        // store max wordLength, HUGE optimization on wordPuzzle
+
         if ( len > wordMax)
             wordMax = len;
 
@@ -73,7 +73,9 @@ int hashTable::myhash( const string & str ) const
     return ( hashVal < 0 ? (hashVal + capacity) : hashVal);
 }
 
-
+/*
+ * provided function for primeness check
+ */
 bool hashTable::checkforlargeprime (int n)
 {
     int sss = ((int)(sqrt((double)n)))+1;
@@ -89,6 +91,9 @@ bool hashTable::checkforlargeprime (int n)
     return true;
 }
 
+/*
+ * provided function for primeness check
+ */
 int hashTable::getNextPrimeNumber (int num)
 {
     int nam = num + 1;

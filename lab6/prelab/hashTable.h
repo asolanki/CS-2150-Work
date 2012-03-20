@@ -27,7 +27,7 @@ class hashTable {
         int wordMax;
 
     private:
-        vector<list<string> > *theLists;
+        vector<list<string> > *theBuckets;
         int myhash( const string & str ) const;
         int getNextPrimeNumber (int num);
         bool checkforlargeprime (int num);
