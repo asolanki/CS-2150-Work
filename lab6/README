@@ -35,3 +35,8 @@ Another large optimization was the creation of a good hash function for a string
 The smallest optimization (yet still a significant one) was reserving all console prints till the end (after the timer stopped).
 
 In the end I was able to reduce a select wordPuzzle's compuation time 22x, from 52 seconds to 2.3.
+
+
+If you fork this and want to make it, here are some sample inputs:
+    ./a.out words.txt 140x70.grid.txt
+    ./a.out words2.txt 300x300.grid.txt
