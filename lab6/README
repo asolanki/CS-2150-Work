@@ -1,4 +1,5 @@
 Lab 6 taught about the HashTable data structure and using make.
+(Note: the prelab folder is actually just the entirety of the lab)
 
 Tasks
 ------
@@ -15,6 +16,7 @@ The word puzzle is a simple word search.  Given a grid file and a dictionary fil
 The parameters are passed in as command line parameters to a.out: the first parameter is the dictionary and the second is the grid.
 
 The format of a grid file is as follows:
+
 * First line = number of rows
 * Second Line = number of columns
 * Third Line = chars in 2D-grid listed left-to-right, top-to-bottom
@@ -22,7 +24,10 @@ The format of a grid file is as follows:
 The format of a dictionary file is a list of words on separate lines.
 
 The goal of the lab was to minimize the time to compute the larger look-up combinations ( e.g. the 300x300 grid and the larger words.txt dictionary )
+
 The largest optimization I found was when I added a custom data-member to the hash table to store the maximum word-size.  This increased the look-up time by orders of magnitude.  As a result of this optimization, my algorithm performed faster than the given example output files.
+
 Another large optimization was the creation of a good hash function for a string. 
+
 The smallest optimization (yet still a significant one) was reserving all console prints till the end (after the timer stopped).
 
