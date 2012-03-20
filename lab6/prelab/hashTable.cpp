@@ -12,7 +12,7 @@ hashTable::hashTable(int size = 101)
 {
     theLists = new vector< list <string> >;          // instantiate 'theLists'
     wordMax = 0;
-    size = size << 1; // more buckets!
+    size = size << 1; // more iuckets!
 
     if (!checkforlargeprime(size))
         size = getNextPrimeNumber(size);    // assert prime size
@@ -103,9 +103,3 @@ int hashTable::getNextPrimeNumber (int num)
     return nam;
 }
 
-void hashTable::printBucketSizes() const
-{
-    for ( int i = 0; i < 1000; i++ ) {
-        cout << "Bucket " << i << ": " << theLists->at(i).size() << endl;
-    }
-}

@@ -1,0 +1,25 @@
+C007 00     jmp     start           skip variables
+0000 01     x       dw      0       int x
+0000 02     y       dw      0       int y
+0000 03     z       dw      0       int z
+0000 04     zero    dw      0
+0000 05
+0000 06
+1000 07     start   readH           read first int
+4001 08             store   x 
+1000 09             readH           read second int
+4002 0A             store   y 
+1000 0B             readH           read second int
+4003 0C             store   y 
+3004 0D             load    zero    acc = 0
+5001 0E             add x           acc += x
+5002 0F             add y           acc += y
+5003 10             add z           acc += z
+D013 11             jmpe    end     if a = 0: goto end             
+C007 12             jmp     start   else: try again
+3001 13     end     load    x       print x
+1800 14             printH 
+3002 15             load    y       print y
+1800 16             printH 
+3003 17             load    z       print z
+1800 18             print 

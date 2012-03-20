@@ -1,0 +1,35 @@
+C00A 00             jmp     start 
+0020 01     a       dw      20      int a[]         
+0005 02     size    dw      3       size = 3
+0000 03     max     dw      0       max = 0
+0001 04     one     dw      1
+3000 05     ldit    dw      3000    
+0000 06     i       dw      0
+0000 07     curr    dw      0
+0000 08
+0000 09
+3002 0A     start   load    size    acc = size - i
+6006 0B             sub     i      
+E01D 0C             jmpl    end     if ((size - i) < 0): goto end
+D01D 0D             jmpe    end     if ((size - i) == 0): goto end
+3005 0E             load    ldit    form instruction to load a[i]
+5001 0F             add     a[]     
+5006 10             add     i
+4012 11             store   doit    store instruction ahead
+0000 12     doit    dw      0       load a[i]
+4007 13             store   curr    curr = a[i]
+6003 14             sub     max     acc = a[i] - max
+E019 15             jmpl    endloop  if (a[i] <=   max) goto endloop
+D019 16             jmpe    endloop
+3007 17             load    curr    acc = curr
+4003 18             store   max     max = acc
+3006 19     endloop load    i       i++
+5004 1A             add     1       
+4006 1B             store   i 
+C00A 1C             jmp     start
+3003 1D     end     load    max     print max
+1800 1E             printH
+0000 1F     a[]     dw      0       int a[]         
+0001 20     a0      dw      1       a[0] = 1
+0002 21     a1      dw      2       a[1] = 2
+ffff 22     a2      dw      -1      a[2] = -1

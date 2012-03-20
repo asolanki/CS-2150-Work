@@ -25,7 +25,6 @@ class hashTable {
         bool insert ( const string & str );
         int capacity;
         int wordMax;
-        void printBucketSizes () const;
 
     private:
         vector<list<string> > *theLists;

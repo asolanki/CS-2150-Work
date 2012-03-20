@@ -15,6 +15,8 @@ OFILES = wordPuzzle.o hashTable.o timer.o
 main: $(OFILES)
 	$(CXX) $(OFILES)
 
+clean: 
+	rm *.o
 
 wordPuzzle.o: wordPuzzle.cpp 
 hashTable.o: hashTable.cpp

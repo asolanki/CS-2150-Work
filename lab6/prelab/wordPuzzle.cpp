@@ -27,7 +27,7 @@ int main (int argc, char ** argv)
     while (1)
     {
         // missing  arguments
-        if ( argc < 3 )
+        if ( argc < 3 ) 
         {
             cout << "Error: missing argument(s), try again" << endl;
             break;
@@ -37,26 +37,22 @@ int main (int argc, char ** argv)
 
 
         // instantiate hashTable, populate it
-        // might need to scan dictFile twice, once for size, once for population
         int numLines = 0;
         ifstream scan( dictFile.c_str() );
         string temp;
-        while ( getline( scan, temp ) )
+        while ( getline( scan, temp ) ) 
         {
             numLines ++;
         }
 
         scan.close();
 
-        hashTable *hTable = new hashTable(numLines);      // check that primeness is handled correctly
+        hashTable *hTable = new hashTable(numLines);
         //cout << "Table created!" << endl;
         
         scan.open( dictFile.c_str() );
         string curr;
 
-        /*
-         * get size of dictionary
-         */
         while ( scan.good() )
         {
             getline( scan, curr );
@@ -84,16 +80,9 @@ int main (int argc, char ** argv)
             break;
         }
 
-        // table should exist and be ready for the searching.
-
+        // start timer
         t.start();
-        //cout << "timer started! " << endl;
 
-/*
-        cout << "about to print out bucket sizes" << endl;
-        hTable->printBucketSizes();
-        break;
-*/
 
         int numWordsFound = 0;
         string result;
@@ -152,6 +141,8 @@ int main (int argc, char ** argv)
         cout << numWordsFound << " words found." << endl;
         double time = t.getTime();
         cout << "Found words in : " << time << " seconds." << endl;
+
+        // print time in milliseconds for shell script 
         cout << (int) (time * 1000) << endl;
 
 
@@ -316,7 +307,6 @@ bool readInTable (string filename, int &rows, int &cols)
    // cout << endl;
   }
 
-  // return success!
   return true;
 }
 
