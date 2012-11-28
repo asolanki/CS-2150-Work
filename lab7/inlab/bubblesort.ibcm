@@ -1,0 +1,68 @@
+C015 00              jmp     start
+0005 01      max     dw      5       MAX = 5
+0003 02      a       dw      mem     ptr to a[]
+0003 03      a0      dw      3       a[] = [3, 2, -2, 19, 0]
+0002 04      a1      dw      2           
+FFFE 05      a2      dw      -2           
+0013 06      a3      dw      19           
+0000 07      a4      dw      0           
+0000 08      i       dw      0       i = 0
+0004 09      j       dw      4       j = 5 - 1
+3000 0A      ldit    dw      3000    load function helper
+0000 0B      curr    dw      0       temp hold for A[k]
+0000 0C      prev    dw      0       temp hold for A[j-1]
+0000 0D      temp    dw      0       temp for swapping
+0001 0E      one     dw      1       1
+4000 0F      strit   dw      4000    store function helper
+0000 10
+0000 11
+0000 12
+0000 13
+0000 14
+3001 15      start   load    MAX     if ( i < MAX): continue 
+6008 16              sub     i       else: goto exiti
+E043 17              jmpl    exiti
+D043 18              jmpe    exiti
+3009 19      jloop   load    j       if ( j > i ) 
+6008 1A              sub     i           continue
+E03C 1B              jmpl    exitj   else: exitj
+D03C 1C              jmpe    exitj   
+300A 1D              load    ldit    form instruction to pull a[j]
+5002 1E              add     a      
+5009 1F              add     j
+4023 20              store   doit    store helper a[j] load function
+600E 21              sub     one
+4025 22              store   doit2   store helper a[j-1] funct
+0000 23      doit    dw      0       curr = a[j]
+400B 24              store   curr    
+0000 25      doit2   dw      0       prev = a[j-1]
+400C 26              store   prev
+300B 27              load    curr
+600C 28              sub     prev
+E02B 29              jmpl    swap    if curr > prev: jmp swap
+C038 2A              jmp     endloop else endloop
+300F 2B      swap    load    strit   A[j] = prev
+5002 2C              add     a
+5009 2D              add     j
+4030 2E              store   swapit
+300C 2F              load    prev
+0000 30      swapit  dw      0 
+300F 31              load    strit  A[j-1] = curr
+5002 32              add     a
+5009 33              add     j
+600E 34              sub     one
+4037 35              store   swapit2
+300B 36              load    curr
+0000 37      swapit2 dw      0 
+3009 38      endloop load    j      j--
+600E 39              sub     one
+4009 3A              store   j
+C019 3B              jmp     jloop
+3008 3C      exitj   load    i       i++
+500E 3D              add     one
+4008 3E              store   i
+3001 3F              load    max      j = 4
+600E 40              sub     one
+4009 41              store   j
+C015 42              jmp     start
+0000 43      exiti

@@ -1,0 +1,19 @@
+Caller
+    save EAX ECX, EDX if you need them (caller-saved)
+    push params onto stack in inverted order (first param, lowest addr)
+    call function
+    pop params off stack after call
+    EAX = return value
+    pop EAX ECX, EDX
+
+Callee
+    push EBP
+    mov ebp, esp  (maintain base ptr)
+    allocate local variables with space on stack (sub 4x#)
+    save EBX EDI and ESI if you need them (callee-saved)
+    // do actual subroutine
+    EAX = ret
+    restore callee-saved EBX EDI ESI
+    deallocate local vars from stack (mov esp, ebp)
+    restore caller base ptr, pop off stac.
+    ret

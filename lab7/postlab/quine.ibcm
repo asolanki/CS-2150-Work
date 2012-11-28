@@ -1,0 +1,17 @@
+C004 00         jmp     start
+0010 01         dw      size (may be offbyone)
+3000 02         dw      load funct
+0001 03         dw      one
+3001 04  start  load    size
+6011 05         sub     i
+E010 06         jmpl    end       if i > size: end
+3002 07         load    load funct
+5011 08         add     i
+400A 09         store   doit
+0000 0A  doit   dw      temp
+1800 0B         printH
+3011 0C         load    i       i ++
+5003 0D         add     1
+4011 0E         store   i
+C004 0F         jmp     start
+0000 10  end
